@@ -1,0 +1,1501 @@
+Day,Period,Class,Subject,Absent_Faculty,Substitute_Faculty,Was_Free_That_Period,Substitution_Success
+Thursday,3,CSE-D,Python Programming,Dr. Rohit Batra,None,0,0
+Friday,4,CSE-DS,Compiler Design,Dr. Yash Iyer,None,0,0
+Monday,3,CSE-IOT,Blockchain,Dr. Kritika Iyer,None,0,0
+Monday,7,CSE-IOT,Web Development,Dr. Rohit Mehta,Dr. Isha Verma,1,1
+Tuesday,7,CSE-CS,Cybersecurity,Dr. Pooja Mehta,None,0,0
+Thursday,8,CSE-F,Digital Logic,Dr. Ruchi Mehta,Dr. Mehul Sinha,1,1
+Monday,4,CSE-AIML,Cybersecurity,Dr. Rina Sharma,Dr. Pooja Mehta,1,1
+Thursday,2,CSE-B,Computer Networks,Dr. Divya Joshi,Dr. Mehul Mehta,1,1
+Wednesday,1,CSE-CS,OS Lab,Dr. Payal Kapoor,None,0,0
+Friday,5,CSE-DS,Communication Skills,Dr. Anjali Kapoor,Dr. Shruti Sinha,1,1
+Thursday,8,CSE-D,Computer Networks,Dr. Divya Joshi,None,0,0
+Wednesday,3,CSE-B,DBMS,Dr. Uday Iyer,Dr. Deepak Kapoor,1,1
+Monday,4,CSE-A,AR/VR,Dr. Mehul Joshi,None,0,0
+Friday,3,CSE-D,Operating Systems,Dr. Varun Kapoor,Dr. Sneha Sharma,1,1
+Monday,3,CSE-F,CN Lab,Dr. Anjali Tiwari,None,0,0
+Tuesday,3,CSE-C,AI,Dr. Isha Iyer,Dr. Ayesha Sinha,1,1
+Wednesday,2,CSE-B,Web Development,Dr. Rohit Mehta,None,0,0
+Wednesday,5,CSE-AIML,Ethics in AI,Dr. Vikas Verma,Dr. Preeti Batra,1,1
+Friday,3,CSE-A,Cybersecurity,Dr. Rina Sharma,Dr. Pooja Mehta,1,1
+Thursday,3,CSE-C,Digital Logic,Dr. Ruchi Mehta,Dr. Mehul Sinha,1,1
+Thursday,8,CSE-A,Computer Networks,Dr. Mehul Mehta,Dr. Divya Joshi,1,1
+Monday,7,CSE-DS,Computer Networks,Dr. Divya Joshi,None,0,0
+Monday,4,CSE-C,Python Programming,Dr. Garima Rao,Dr. Yash Batra,1,1
+Tuesday,2,CSE-CS,Computer Graphics,Dr. Divya Iyer,None,0,0
+Monday,2,CSE-E,Cybersecurity,Dr. Priya Iyer,Dr. Rina Sharma,1,1
+Tuesday,7,CSE-B,Operating Systems,Dr. Sameer Kapoor,Dr. Sneha Sharma,1,1
+Wednesday,2,CSE-C,Operating Systems,Dr. Sameer Kapoor,None,0,0
+Thursday,5,CSE-CS,Operating Systems,Dr. Sameer Kapoor,None,0,0
+Tuesday,7,CSE-IOT,Cybersecurity,Dr. Priya Iyer,Dr. Rina Sharma,1,1
+Friday,3,CSE-DS,NLP,Dr. Rina Joshi,Dr. Tanya Iyer,1,1
+Monday,4,CSE-IOT,Communication Skills,Dr. Shruti Sinha,None,0,0
+Monday,1,CSE-E,Communication Skills,Dr. Shruti Sinha,Dr. Anjali Kapoor,1,1
+Wednesday,6,CSE-E,Ethics in AI,Dr. Ayesha Tiwari,Dr. Preeti Batra,1,1
+Thursday,4,CSE-AIML,NLP,Dr. Rina Joshi,None,0,0
+Monday,1,CSE-F,AI,Dr. Ayesha Sinha,Dr. Isha Iyer,1,1
+Wednesday,8,CSE-E,Compiler Design,Dr. Sanjay Kapoor,Dr. Harsh Joshi,1,1
+Thursday,5,CSE-DS,DBMS,Dr. Uday Iyer,Dr. Deepak Kapoor,1,1
+Monday,1,CSE-AIML,Data Structures,Dr. Jyoti Mehta,Dr. Sameer Batra,1,1
+Monday,5,CSE-AIML,OOPs,Dr. Alok Iyer,Dr. Pallavi Sharma,1,1
+Friday,5,CSE-A,Digital Logic,Dr. Rohit Kapoor,Dr. Mehul Sinha,1,1
+Tuesday,6,CSE-F,Blockchain,Dr. Kritika Iyer,None,0,0
+Wednesday,5,CSE-DS,Compiler Design,Dr. Sanjay Kapoor,Dr. Yash Iyer,1,1
+Tuesday,2,CSE-CS,Computer Graphics,Dr. Mehul Verma,Dr. Divya Iyer,1,1
+Tuesday,2,CSE-A,Web Development,Dr. Isha Verma,None,0,0
+Tuesday,1,CSE-IOT,OOPs,Dr. Alok Iyer,Dr. Pallavi Sharma,1,1
+Friday,6,CSE-AIML,OOPs,Dr. Pallavi Sharma,None,0,0
+Tuesday,2,CSE-A,OOPs,Dr. Pallavi Sharma,None,0,0
+Monday,8,CSE-F,Operating Systems,Dr. Sameer Kapoor,None,0,0
+Friday,7,CSE-D,DBMS,Dr. Uday Iyer,None,0,0
+Friday,8,CSE-A,Digital Logic,Dr. Rohit Kapoor,Dr. Ruchi Mehta,1,1
+Thursday,7,CSE-D,OS Lab,Dr. Payal Kapoor,Dr. Tina Mehta,1,1
+Wednesday,4,CSE-C,Cybersecurity,Dr. Pooja Mehta,Dr. Priya Iyer,1,1
+Monday,4,CSE-F,Computer Graphics,Dr. Mehul Verma,None,0,0
+Tuesday,2,CSE-D,NLP,Dr. Tanya Iyer,Dr. Rina Joshi,1,1
+Tuesday,1,CSE-E,Java Programming,Dr. Sameer Sinha,None,0,0
+Friday,6,CSE-CS,Digital Logic,Dr. Rohit Kapoor,None,0,0
+Tuesday,2,CSE-CS,Data Structures,Dr. Simran Rao,None,0,0
+Wednesday,2,CSE-IOT,OOPs,Dr. Alok Iyer,None,0,0
+Tuesday,7,CSE-D,Python Programming,Dr. Garima Rao,Dr. Yash Batra,1,1
+Monday,6,CSE-CS,OS Lab,Dr. Tina Mehta,None,0,0
+Monday,7,CSE-D,OS Lab,Dr. Tina Mehta,None,0,0
+Thursday,4,CSE-E,Computer Networks,Dr. Mehul Mehta,None,0,0
+Wednesday,1,CSE-C,Web Development,Dr. Isha Verma,None,0,0
+Friday,7,CSE-F,Computer Networks,Dr. Divya Joshi,Dr. Mehul Mehta,1,1
+Tuesday,8,CSE-A,Java Programming,Dr. Sameer Sinha,Dr. Rajat Verma,1,1
+Friday,8,CSE-B,Machine Learning,Dr. Amit Sinha,Dr. Komal Batra,1,1
+Wednesday,6,CSE-A,Project Lab,Dr. Kunal Batra,Dr. Mohit Joshi,1,1
+Tuesday,3,CSE-A,Communication Skills,Dr. Shruti Sinha,None,0,0
+Tuesday,6,CSE-A,Operating Systems,Dr. Sameer Kapoor,None,0,0
+Tuesday,6,CSE-C,Project Lab,Dr. Mohit Joshi,Dr. Kunal Batra,1,1
+Thursday,3,CSE-AIML,Data Structures,Dr. Sameer Batra,None,0,0
+Monday,6,CSE-IOT,Computer Networks,Dr. Divya Joshi,None,0,0
+Monday,1,CSE-F,Data Structures,Dr. Jyoti Mehta,None,0,0
+Thursday,1,CSE-E,Machine Learning,Dr. Komal Batra,Dr. Amit Sinha,1,1
+Thursday,4,CSE-AIML,Software Engineering,Dr. Abhay Iyer,Dr. Abhay Kapoor,1,1
+Tuesday,7,CSE-CS,OOPs,Dr. Pallavi Sharma,None,0,0
+Wednesday,4,CSE-C,Python Programming,Dr. Rohit Batra,Dr. Yash Batra,1,1
+Monday,8,CSE-DS,Computer Graphics,Dr. Preeti Sinha,None,0,0
+Thursday,5,CSE-CS,Communication Skills,Dr. Vikas Sharma,Dr. Anjali Kapoor,1,1
+Monday,7,CSE-C,Java Programming,Dr. Sameer Sinha,None,0,0
+Thursday,1,CSE-D,DBMS,Dr. Deepak Kapoor,Dr. Uday Iyer,1,1
+Thursday,6,CSE-E,Software Engineering,Dr. Abhay Iyer,None,0,0
+Monday,8,CSE-D,OS Lab,Dr. Tina Mehta,None,0,0
+Monday,8,CSE-C,OOPs,Dr. Alok Iyer,Dr. Pallavi Sharma,1,1
+Tuesday,8,CSE-E,Blockchain,Dr. Mohit Mehta,Dr. Kritika Iyer,1,1
+Wednesday,7,CSE-DS,Computer Graphics,Dr. Mehul Verma,Dr. Preeti Sinha,1,1
+Friday,4,CSE-E,Compiler Design,Dr. Sanjay Kapoor,None,0,0
+Wednesday,5,CSE-CS,DBMS,Dr. Uday Iyer,Dr. Deepak Kapoor,1,1
+Tuesday,2,CSE-IOT,Cloud Computing,Dr. Rohit Joshi,None,0,0
+Thursday,4,CSE-CS,OS Lab,Dr. Payal Kapoor,Dr. Tina Mehta,1,1
+Wednesday,4,CSE-A,OS Lab,Dr. Payal Kapoor,Dr. Tina Mehta,1,1
+Thursday,4,CSE-C,Computer Graphics,Dr. Divya Iyer,Dr. Mehul Verma,1,1
+Friday,8,CSE-DS,Web Development,Dr. Rohit Mehta,Dr. Isha Verma,1,1
+Friday,6,CSE-C,Cloud Computing,Dr. Rohit Joshi,Dr. Mohit Tiwari,1,1
+Tuesday,8,CSE-E,Digital Logic,Dr. Ruchi Mehta,None,0,0
+Wednesday,6,CSE-CS,Computer Graphics,Dr. Divya Iyer,None,0,0
+Monday,7,CSE-E,Data Structures,Dr. Sameer Batra,None,0,0
+Friday,3,CSE-B,Ethics in AI,Dr. Preeti Batra,None,0,0
+Wednesday,8,CSE-D,Cybersecurity,Dr. Rina Sharma,Dr. Priya Iyer,1,1
+Friday,1,CSE-AIML,Digital Logic,Dr. Ruchi Mehta,None,0,0
+Friday,3,CSE-AIML,OS Lab,Dr. Tina Mehta,None,0,0
+Wednesday,6,CSE-DS,NLP,Dr. Tanya Iyer,Dr. Rina Joshi,1,1
+Friday,6,CSE-A,Cloud Computing,Dr. Mohit Tiwari,None,0,0
+Wednesday,8,CSE-F,DBMS Lab,Dr. Tanvi Verma,Dr. Rajat Batra,1,1
+Thursday,2,CSE-F,Software Engineering,Dr. Abhay Iyer,None,0,0
+Friday,3,CSE-C,NLP,Dr. Rina Joshi,Dr. Tanya Iyer,1,1
+Monday,3,CSE-E,CN Lab,Dr. Anjali Tiwari,Dr. Mehul Tiwari,1,1
+Tuesday,5,CSE-A,Compiler Design,Dr. Yash Iyer,None,0,0
+Tuesday,4,CSE-D,Digital Logic,Dr. Rohit Kapoor,Dr. Mehul Sinha,1,1
+Tuesday,7,CSE-AIML,Communication Skills,Dr. Vikas Sharma,Dr. Shruti Sinha,1,1
+Tuesday,5,CSE-C,Compiler Design,Dr. Yash Iyer,None,0,0
+Monday,6,CSE-B,NLP,Dr. Rina Joshi,Dr. Tanya Iyer,1,1
+Wednesday,8,CSE-C,Digital Logic,Dr. Mehul Sinha,Dr. Ruchi Mehta,1,1
+Friday,6,CSE-CS,Machine Learning,Dr. Amit Sinha,None,0,0
+Thursday,8,CSE-C,Computer Graphics,Dr. Divya Iyer,Dr. Preeti Sinha,1,1
+Friday,6,CSE-CS,NLP,Dr. Tanya Iyer,Dr. Rina Joshi,1,1
+Thursday,4,CSE-A,AR/VR,Dr. Garima Verma,Dr. Mehul Joshi,1,1
+Thursday,7,CSE-DS,AI,Dr. Isha Iyer,None,0,0
+Friday,3,CSE-IOT,Java Programming,Dr. Sameer Sinha,None,0,0
+Tuesday,1,CSE-AIML,Digital Logic,Dr. Rohit Kapoor,Dr. Ruchi Mehta,1,1
+Wednesday,4,CSE-C,OS Lab,Dr. Payal Kapoor,None,0,0
+Wednesday,3,CSE-F,CN Lab,Dr. Mehul Tiwari,Dr. Anjali Tiwari,1,1
+Monday,6,CSE-AIML,Ethics in AI,Dr. Vikas Verma,Dr. Ayesha Tiwari,1,1
+Thursday,4,CSE-B,DBMS Lab,Dr. Rajat Batra,Dr. Tanvi Verma,1,1
+Thursday,4,CSE-IOT,Software Engineering,Dr. Abhay Kapoor,Dr. Abhay Iyer,1,1
+Monday,2,CSE-A,DBMS Lab,Dr. Rajat Batra,None,0,0
+Friday,8,CSE-CS,Communication Skills,Dr. Anjali Kapoor,None,0,0
+Tuesday,4,CSE-AIML,Java Programming,Dr. Sameer Sinha,Dr. Rajat Verma,1,1
+Friday,5,CSE-B,Operating Systems,Dr. Varun Kapoor,Dr. Sameer Kapoor,1,1
+Tuesday,7,CSE-IOT,Cybersecurity,Dr. Pooja Mehta,Dr. Priya Iyer,1,1
+Wednesday,2,CSE-DS,Web Development,Dr. Isha Verma,None,0,0
+Friday,7,CSE-D,OS Lab,Dr. Payal Kapoor,Dr. Tina Mehta,1,1
+Monday,2,CSE-A,Software Engineering,Dr. Abhay Iyer,None,0,0
+Thursday,8,CSE-E,Cloud Computing,Dr. Mohit Tiwari,None,0,0
+Friday,6,CSE-B,Cloud Computing,Dr. Mohit Tiwari,Dr. Rohit Joshi,1,1
+Friday,7,CSE-D,Ethics in AI,Dr. Vikas Verma,Dr. Preeti Batra,1,1
+Wednesday,6,CSE-A,Software Engineering,Dr. Abhay Kapoor,None,0,0
+Tuesday,2,CSE-DS,AI,Dr. Isha Iyer,None,0,0
+Friday,8,CSE-CS,Software Engineering,Dr. Abhay Kapoor,Dr. Abhay Iyer,1,1
+Monday,7,CSE-IOT,Data Structures,Dr. Sameer Batra,None,0,0
+Tuesday,3,CSE-F,DBMS,Dr. Deepak Kapoor,Dr. Uday Iyer,1,1
+Wednesday,1,CSE-B,Data Structures,Dr. Simran Rao,Dr. Sameer Batra,1,1
+Wednesday,3,CSE-B,Blockchain,Dr. Kritika Iyer,None,0,0
+Tuesday,4,CSE-DS,AI,Dr. Isha Iyer,Dr. Ayesha Sinha,1,1
+Thursday,8,CSE-IOT,Operating Systems,Dr. Sameer Kapoor,None,0,0
+Wednesday,2,CSE-C,Software Engineering,Dr. Abhay Kapoor,None,0,0
+Friday,8,CSE-AIML,Python Programming,Dr. Yash Batra,None,0,0
+Wednesday,4,CSE-CS,DBMS Lab,Dr. Rajat Batra,Dr. Tanvi Verma,1,1
+Thursday,7,CSE-DS,AI,Dr. Isha Iyer,Dr. Ayesha Sinha,1,1
+Monday,4,CSE-AIML,Cybersecurity,Dr. Rina Sharma,Dr. Pooja Mehta,1,1
+Monday,6,CSE-C,Computer Networks,Dr. Mehul Mehta,None,0,0
+Monday,8,CSE-A,Java Programming,Dr. Sameer Sinha,Dr. Rajat Verma,1,1
+Monday,7,CSE-A,NLP,Dr. Tanya Iyer,None,0,0
+Wednesday,4,CSE-DS,Computer Networks,Dr. Mehul Mehta,None,0,0
+Tuesday,7,CSE-A,OOPs,Dr. Pallavi Sharma,Dr. Alok Iyer,1,1
+Monday,4,CSE-AIML,OS Lab,Dr. Tina Mehta,None,0,0
+Tuesday,7,CSE-C,Digital Logic,Dr. Rohit Kapoor,None,0,0
+Friday,7,CSE-B,Computer Graphics,Dr. Mehul Verma,None,0,0
+Monday,6,CSE-DS,Python Programming,Dr. Garima Rao,Dr. Yash Batra,1,1
+Monday,5,CSE-DS,Computer Graphics,Dr. Divya Iyer,None,0,0
+Monday,1,CSE-A,Computer Networks,Dr. Mehul Mehta,Dr. Divya Joshi,1,1
+Friday,2,CSE-F,Computer Networks,Dr. Mehul Mehta,None,0,0
+Tuesday,2,CSE-F,Java Programming,Dr. Sameer Sinha,None,0,0
+Thursday,2,CSE-IOT,Ethics in AI,Dr. Vikas Verma,Dr. Ayesha Tiwari,1,1
+Thursday,1,CSE-C,Ethics in AI,Dr. Preeti Batra,Dr. Ayesha Tiwari,1,1
+Wednesday,8,CSE-B,Cybersecurity,Dr. Rina Sharma,None,0,0
+Monday,3,CSE-D,Operating Systems,Dr. Sameer Kapoor,None,0,0
+Monday,8,CSE-E,Digital Logic,Dr. Rohit Kapoor,Dr. Ruchi Mehta,1,1
+Thursday,4,CSE-C,Software Engineering,Dr. Abhay Iyer,None,0,0
+Wednesday,3,CSE-F,Web Development,Dr. Isha Verma,Dr. Rohit Mehta,1,1
+Wednesday,7,CSE-D,Computer Graphics,Dr. Preeti Sinha,Dr. Divya Iyer,1,1
+Monday,4,CSE-D,Web Development,Dr. Isha Verma,None,0,0
+Friday,2,CSE-CS,Computer Networks,Dr. Divya Joshi,None,0,0
+Monday,2,CSE-F,Communication Skills,Dr. Vikas Sharma,None,0,0
+Tuesday,4,CSE-D,Cloud Computing,Dr. Rohit Joshi,Dr. Mohit Tiwari,1,1
+Thursday,1,CSE-IOT,Ethics in AI,Dr. Preeti Batra,None,0,0
+Monday,8,CSE-A,Digital Logic,Dr. Ruchi Mehta,None,0,0
+Wednesday,4,CSE-DS,AR/VR,Dr. Garima Sharma,Dr. Garima Verma,1,1
+Thursday,6,CSE-E,Computer Networks,Dr. Mehul Mehta,Dr. Divya Joshi,1,1
+Thursday,8,CSE-AIML,OS Lab,Dr. Payal Kapoor,Dr. Tina Mehta,1,1
+Wednesday,6,CSE-IOT,AI,Dr. Ayesha Sinha,None,0,0
+Monday,5,CSE-A,Web Development,Dr. Isha Verma,None,0,0
+Monday,3,CSE-C,NLP,Dr. Rina Joshi,None,0,0
+Tuesday,4,CSE-C,Machine Learning,Dr. Amit Sinha,None,0,0
+Monday,3,CSE-AIML,Cloud Computing,Dr. Rohit Joshi,None,0,0
+Friday,8,CSE-E,OOPs,Dr. Alok Iyer,Dr. Pallavi Sharma,1,1
+Thursday,2,CSE-DS,Web Development,Dr. Rohit Mehta,None,0,0
+Thursday,6,CSE-AIML,Communication Skills,Dr. Shruti Sinha,Dr. Anjali Kapoor,1,1
+Friday,2,CSE-E,DBMS Lab,Dr. Rajat Batra,Dr. Tanvi Verma,1,1
+Friday,2,CSE-A,Ethics in AI,Dr. Ayesha Tiwari,None,0,0
+Thursday,6,CSE-CS,DBMS Lab,Dr. Tanvi Verma,None,0,0
+Wednesday,1,CSE-AIML,Computer Networks,Dr. Divya Joshi,None,0,0
+Monday,8,CSE-F,Project Lab,Dr. Kunal Batra,None,0,0
+Thursday,1,CSE-E,DBMS Lab,Dr. Tanvi Verma,None,0,0
+Friday,1,CSE-CS,Cybersecurity,Dr. Pooja Mehta,Dr. Rina Sharma,1,1
+Tuesday,4,CSE-B,Ethics in AI,Dr. Vikas Verma,None,0,0
+Tuesday,7,CSE-B,Python Programming,Dr. Yash Batra,Dr. Rohit Batra,1,1
+Wednesday,6,CSE-E,DBMS Lab,Dr. Rajat Batra,Dr. Tanvi Verma,1,1
+Wednesday,3,CSE-F,Project Lab,Dr. Mohit Joshi,None,0,0
+Tuesday,2,CSE-AIML,Cybersecurity,Dr. Rina Sharma,Dr. Priya Iyer,1,1
+Friday,4,CSE-E,Machine Learning,Dr. Amit Sinha,None,0,0
+Tuesday,3,CSE-E,DBMS Lab,Dr. Rajat Batra,Dr. Tanvi Verma,1,1
+Friday,6,CSE-D,Software Engineering,Dr. Abhay Kapoor,Dr. Abhay Iyer,1,1
+Thursday,6,CSE-D,Java Programming,Dr. Sameer Sinha,None,0,0
+Wednesday,5,CSE-IOT,Blockchain,Dr. Kritika Iyer,None,0,0
+Friday,2,CSE-A,Python Programming,Dr. Yash Batra,Dr. Garima Rao,1,1
+Monday,2,CSE-A,Machine Learning,Dr. Amit Sinha,Dr. Komal Batra,1,1
+Friday,7,CSE-D,AI,Dr. Ayesha Sinha,None,0,0
+Friday,6,CSE-B,Java Programming,Dr. Rajat Verma,None,0,0
+Wednesday,7,CSE-B,DBMS,Dr. Deepak Kapoor,Dr. Uday Iyer,1,1
+Tuesday,3,CSE-F,Python Programming,Dr. Yash Batra,Dr. Garima Rao,1,1
+Wednesday,3,CSE-D,Computer Graphics,Dr. Mehul Verma,None,0,0
+Monday,4,CSE-AIML,DBMS Lab,Dr. Rajat Batra,None,0,0
+Wednesday,4,CSE-D,DBMS,Dr. Uday Iyer,None,0,0
+Friday,1,CSE-F,OS Lab,Dr. Payal Kapoor,Dr. Tina Mehta,1,1
+Tuesday,6,CSE-CS,Computer Networks,Dr. Mehul Mehta,Dr. Divya Joshi,1,1
+Thursday,8,CSE-AIML,Project Lab,Dr. Kunal Batra,None,0,0
+Tuesday,6,CSE-CS,OS Lab,Dr. Tina Mehta,None,0,0
+Wednesday,5,CSE-IOT,Data Structures,Dr. Simran Rao,None,0,0
+Tuesday,1,CSE-CS,Data Structures,Dr. Simran Rao,None,0,0
+Monday,4,CSE-B,Operating Systems,Dr. Sneha Sharma,Dr. Varun Kapoor,1,1
+Friday,6,CSE-A,DBMS Lab,Dr. Tanvi Verma,None,0,0
+Tuesday,1,CSE-D,Digital Logic,Dr. Mehul Sinha,None,0,0
+Monday,1,CSE-AIML,DBMS Lab,Dr. Tanvi Verma,Dr. Rajat Batra,1,1
+Thursday,3,CSE-F,Java Programming,Dr. Sameer Sinha,None,0,0
+Monday,6,CSE-DS,Digital Logic,Dr. Rohit Kapoor,Dr. Ruchi Mehta,1,1
+Wednesday,5,CSE-B,Computer Graphics,Dr. Mehul Verma,Dr. Preeti Sinha,1,1
+Friday,4,CSE-AIML,Ethics in AI,Dr. Vikas Verma,None,0,0
+Wednesday,7,CSE-F,Project Lab,Dr. Kunal Batra,None,0,0
+Thursday,1,CSE-DS,Computer Graphics,Dr. Divya Iyer,Dr. Mehul Verma,1,1
+Tuesday,4,CSE-CS,CN Lab,Dr. Anjali Tiwari,None,0,0
+Tuesday,8,CSE-D,Cloud Computing,Dr. Rohit Joshi,Dr. Mohit Tiwari,1,1
+Wednesday,7,CSE-E,OS Lab,Dr. Payal Kapoor,Dr. Tina Mehta,1,1
+Monday,2,CSE-E,DBMS,Dr. Deepak Kapoor,None,0,0
+Friday,2,CSE-F,Computer Graphics,Dr. Divya Iyer,None,0,0
+Thursday,6,CSE-AIML,Python Programming,Dr. Yash Batra,None,0,0
+Friday,2,CSE-A,NLP,Dr. Rina Joshi,None,0,0
+Monday,7,CSE-AIML,Operating Systems,Dr. Sneha Sharma,None,0,0
+Thursday,2,CSE-E,Operating Systems,Dr. Sneha Sharma,Dr. Varun Kapoor,1,1
+Wednesday,8,CSE-DS,Web Development,Dr. Isha Verma,Dr. Rohit Mehta,1,1
+Thursday,4,CSE-B,DBMS,Dr. Uday Iyer,None,0,0
+Monday,8,CSE-IOT,OOPs,Dr. Alok Iyer,Dr. Pallavi Sharma,1,1
+Thursday,2,CSE-D,Computer Networks,Dr. Mehul Mehta,Dr. Divya Joshi,1,1
+Monday,6,CSE-CS,Software Engineering,Dr. Abhay Kapoor,Dr. Abhay Iyer,1,1
+Tuesday,6,CSE-E,Blockchain,Dr. Mohit Mehta,Dr. Kritika Iyer,1,1
+Monday,1,CSE-A,Cloud Computing,Dr. Mohit Tiwari,Dr. Rohit Joshi,1,1
+Tuesday,6,CSE-F,Computer Networks,Dr. Mehul Mehta,Dr. Divya Joshi,1,1
+Monday,4,CSE-DS,AR/VR,Dr. Garima Verma,Dr. Garima Sharma,1,1
+Thursday,1,CSE-A,AR/VR,Dr. Garima Verma,None,0,0
+Thursday,8,CSE-C,Computer Graphics,Dr. Preeti Sinha,Dr. Divya Iyer,1,1
+Tuesday,4,CSE-CS,Computer Graphics,Dr. Preeti Sinha,None,0,0
+Wednesday,7,CSE-IOT,Data Structures,Dr. Jyoti Mehta,None,0,0
+Tuesday,2,CSE-AIML,Python Programming,Dr. Rohit Batra,Dr. Yash Batra,1,1
+Monday,2,CSE-C,DBMS,Dr. Deepak Kapoor,Dr. Uday Iyer,1,1
+Thursday,5,CSE-C,DBMS,Dr. Deepak Kapoor,None,0,0
+Thursday,2,CSE-IOT,Java Programming,Dr. Rajat Verma,None,0,0
+Wednesday,1,CSE-IOT,Java Programming,Dr. Rajat Verma,Dr. Sameer Sinha,1,1
+Friday,4,CSE-E,Java Programming,Dr. Sameer Sinha,None,0,0
+Wednesday,7,CSE-DS,Communication Skills,Dr. Vikas Sharma,None,0,0
+Monday,4,CSE-C,Machine Learning,Dr. Komal Batra,Dr. Amit Sinha,1,1
+Tuesday,3,CSE-C,AR/VR,Dr. Garima Verma,None,0,0
+Friday,3,CSE-F,OOPs,Dr. Alok Iyer,None,0,0
+Tuesday,2,CSE-DS,Communication Skills,Dr. Anjali Kapoor,Dr. Shruti Sinha,1,1
+Thursday,4,CSE-AIML,Computer Graphics,Dr. Mehul Verma,None,0,0
+Wednesday,1,CSE-D,Computer Graphics,Dr. Divya Iyer,None,0,0
+Friday,5,CSE-C,Digital Logic,Dr. Mehul Sinha,None,0,0
+Monday,8,CSE-IOT,Project Lab,Dr. Mohit Joshi,Dr. Kunal Batra,1,1
+Monday,8,CSE-CS,Web Development,Dr. Rohit Mehta,None,0,0
+Friday,2,CSE-CS,NLP,Dr. Rina Joshi,Dr. Tanya Iyer,1,1
+Wednesday,7,CSE-C,Operating Systems,Dr. Varun Kapoor,None,0,0
+Tuesday,2,CSE-E,OOPs,Dr. Alok Iyer,None,0,0
+Wednesday,3,CSE-A,DBMS Lab,Dr. Rajat Batra,None,0,0
+Monday,7,CSE-CS,NLP,Dr. Tanya Iyer,Dr. Rina Joshi,1,1
+Tuesday,7,CSE-F,CN Lab,Dr. Anjali Tiwari,Dr. Mehul Tiwari,1,1
+Wednesday,1,CSE-A,AI,Dr. Ayesha Sinha,None,0,0
+Thursday,7,CSE-AIML,Computer Graphics,Dr. Mehul Verma,None,0,0
+Thursday,6,CSE-A,Compiler Design,Dr. Sanjay Kapoor,Dr. Harsh Joshi,1,1
+Tuesday,3,CSE-F,Software Engineering,Dr. Abhay Iyer,Dr. Abhay Kapoor,1,1
+Thursday,6,CSE-IOT,NLP,Dr. Tanya Iyer,Dr. Rina Joshi,1,1
+Thursday,5,CSE-D,NLP,Dr. Rina Joshi,Dr. Tanya Iyer,1,1
+Thursday,2,CSE-F,Compiler Design,Dr. Harsh Joshi,Dr. Yash Iyer,1,1
+Thursday,8,CSE-B,Ethics in AI,Dr. Preeti Batra,Dr. Vikas Verma,1,1
+Monday,2,CSE-CS,Data Structures,Dr. Jyoti Mehta,None,0,0
+Friday,5,CSE-IOT,Data Structures,Dr. Jyoti Mehta,Dr. Simran Rao,1,1
+Tuesday,2,CSE-F,DBMS,Dr. Deepak Kapoor,None,0,0
+Tuesday,5,CSE-C,Operating Systems,Dr. Varun Kapoor,Dr. Sameer Kapoor,1,1
+Friday,3,CSE-A,Machine Learning,Dr. Amit Sinha,None,0,0
+Tuesday,6,CSE-E,AI,Dr. Isha Iyer,Dr. Ayesha Sinha,1,1
+Tuesday,1,CSE-IOT,CN Lab,Dr. Mehul Tiwari,None,0,0
+Monday,3,CSE-CS,AR/VR,Dr. Garima Verma,None,0,0
+Thursday,4,CSE-D,Python Programming,Dr. Yash Batra,None,0,0
+Monday,8,CSE-CS,Compiler Design,Dr. Yash Iyer,Dr. Sanjay Kapoor,1,1
+Friday,2,CSE-A,AR/VR,Dr. Garima Sharma,Dr. Mehul Joshi,1,1
+Wednesday,2,CSE-DS,Operating Systems,Dr. Sneha Sharma,Dr. Varun Kapoor,1,1
+Thursday,1,CSE-IOT,DBMS,Dr. Uday Iyer,None,0,0
+Thursday,7,CSE-IOT,AR/VR,Dr. Garima Verma,Dr. Garima Sharma,1,1
+Tuesday,1,CSE-IOT,Project Lab,Dr. Kunal Batra,Dr. Mohit Joshi,1,1
+Tuesday,7,CSE-DS,Machine Learning,Dr. Amit Sinha,None,0,0
+Thursday,7,CSE-D,DBMS Lab,Dr. Tanvi Verma,None,0,0
+Wednesday,8,CSE-D,AR/VR,Dr. Garima Verma,Dr. Garima Sharma,1,1
+Tuesday,1,CSE-D,Web Development,Dr. Rohit Mehta,Dr. Isha Verma,1,1
+Thursday,6,CSE-CS,Compiler Design,Dr. Yash Iyer,None,0,0
+Monday,7,CSE-CS,OOPs,Dr. Pallavi Sharma,None,0,0
+Monday,3,CSE-E,OOPs,Dr. Alok Iyer,Dr. Pallavi Sharma,1,1
+Wednesday,3,CSE-CS,Operating Systems,Dr. Sameer Kapoor,None,0,0
+Tuesday,3,CSE-D,DBMS Lab,Dr. Rajat Batra,None,0,0
+Wednesday,2,CSE-AIML,Blockchain,Dr. Mohit Mehta,Dr. Kritika Iyer,1,1
+Monday,2,CSE-F,NLP,Dr. Tanya Iyer,Dr. Rina Joshi,1,1
+Wednesday,3,CSE-A,Cloud Computing,Dr. Rohit Joshi,None,0,0
+Monday,7,CSE-IOT,Operating Systems,Dr. Sneha Sharma,None,0,0
+Friday,2,CSE-DS,Computer Graphics,Dr. Divya Iyer,None,0,0
+Thursday,5,CSE-IOT,CN Lab,Dr. Mehul Tiwari,Dr. Anjali Tiwari,1,1
+Monday,2,CSE-D,Computer Graphics,Dr. Preeti Sinha,None,0,0
+Friday,4,CSE-A,Ethics in AI,Dr. Vikas Verma,Dr. Preeti Batra,1,1
+Friday,8,CSE-IOT,Digital Logic,Dr. Rohit Kapoor,None,0,0
+Wednesday,1,CSE-DS,AR/VR,Dr. Garima Sharma,Dr. Garima Verma,1,1
+Thursday,7,CSE-CS,Compiler Design,Dr. Sanjay Kapoor,None,0,0
+Thursday,4,CSE-D,Project Lab,Dr. Mohit Joshi,None,0,0
+Tuesday,6,CSE-AIML,Compiler Design,Dr. Sanjay Kapoor,None,0,0
+Tuesday,3,CSE-A,Project Lab,Dr. Kunal Batra,None,0,0
+Wednesday,5,CSE-C,Compiler Design,Dr. Sanjay Kapoor,Dr. Harsh Joshi,1,1
+Thursday,2,CSE-F,OS Lab,Dr. Payal Kapoor,Dr. Tina Mehta,1,1
+Tuesday,2,CSE-C,Digital Logic,Dr. Ruchi Mehta,None,0,0
+Monday,1,CSE-AIML,AR/VR,Dr. Garima Sharma,None,0,0
+Wednesday,1,CSE-C,Ethics in AI,Dr. Vikas Verma,None,0,0
+Tuesday,4,CSE-D,Ethics in AI,Dr. Vikas Verma,Dr. Preeti Batra,1,1
+Friday,5,CSE-F,Blockchain,Dr. Mohit Mehta,None,0,0
+Tuesday,2,CSE-E,DBMS,Dr. Uday Iyer,None,0,0
+Thursday,6,CSE-D,OOPs,Dr. Pallavi Sharma,Dr. Alok Iyer,1,1
+Wednesday,6,CSE-B,Blockchain,Dr. Kritika Iyer,None,0,0
+Tuesday,7,CSE-C,DBMS Lab,Dr. Rajat Batra,Dr. Tanvi Verma,1,1
+Thursday,1,CSE-E,NLP,Dr. Rina Joshi,None,0,0
+Thursday,3,CSE-DS,Compiler Design,Dr. Harsh Joshi,None,0,0
+Wednesday,6,CSE-B,DBMS Lab,Dr. Tanvi Verma,None,0,0
+Tuesday,1,CSE-IOT,OOPs,Dr. Alok Iyer,None,0,0
+Wednesday,6,CSE-AIML,Project Lab,Dr. Kunal Batra,Dr. Mohit Joshi,1,1
+Wednesday,4,CSE-AIML,Java Programming,Dr. Sameer Sinha,None,0,0
+Wednesday,6,CSE-C,AR/VR,Dr. Mehul Joshi,None,0,0
+Friday,3,CSE-D,Data Structures,Dr. Simran Rao,None,0,0
+Monday,8,CSE-E,AI,Dr. Ayesha Sinha,None,0,0
+Friday,7,CSE-C,Blockchain,Dr. Mohit Mehta,Dr. Kritika Iyer,1,1
+Wednesday,8,CSE-C,Data Structures,Dr. Jyoti Mehta,None,0,0
+Thursday,2,CSE-AIML,Compiler Design,Dr. Yash Iyer,None,0,0
+Thursday,7,CSE-D,Machine Learning,Dr. Amit Sinha,None,0,0
+Tuesday,6,CSE-F,Data Structures,Dr. Jyoti Mehta,None,0,0
+Thursday,2,CSE-AIML,Web Development,Dr. Rohit Mehta,Dr. Isha Verma,1,1
+Wednesday,5,CSE-DS,Digital Logic,Dr. Rohit Kapoor,None,0,0
+Tuesday,2,CSE-B,Software Engineering,Dr. Abhay Iyer,Dr. Abhay Kapoor,1,1
+Monday,4,CSE-DS,Operating Systems,Dr. Sameer Kapoor,Dr. Sneha Sharma,1,1
+Friday,7,CSE-C,DBMS Lab,Dr. Tanvi Verma,None,0,0
+Friday,3,CSE-B,Machine Learning,Dr. Komal Batra,Dr. Amit Sinha,1,1
+Monday,6,CSE-AIML,Java Programming,Dr. Rajat Verma,None,0,0
+Wednesday,8,CSE-CS,AI,Dr. Ayesha Sinha,None,0,0
+Wednesday,1,CSE-F,NLP,Dr. Tanya Iyer,Dr. Rina Joshi,1,1
+Tuesday,1,CSE-DS,OS Lab,Dr. Payal Kapoor,None,0,0
+Monday,8,CSE-CS,Digital Logic,Dr. Mehul Sinha,None,0,0
+Tuesday,8,CSE-C,NLP,Dr. Rina Joshi,None,0,0
+Thursday,7,CSE-DS,Project Lab,Dr. Mohit Joshi,Dr. Kunal Batra,1,1
+Thursday,6,CSE-F,Java Programming,Dr. Sameer Sinha,None,0,0
+Friday,3,CSE-CS,Machine Learning,Dr. Komal Batra,None,0,0
+Tuesday,7,CSE-D,Java Programming,Dr. Sameer Sinha,Dr. Rajat Verma,1,1
+Tuesday,8,CSE-AIML,Machine Learning,Dr. Komal Batra,Dr. Amit Sinha,1,1
+Tuesday,5,CSE-F,Computer Networks,Dr. Divya Joshi,None,0,0
+Tuesday,8,CSE-AIML,Python Programming,Dr. Rohit Batra,None,0,0
+Thursday,3,CSE-DS,Data Structures,Dr. Sameer Batra,None,0,0
+Wednesday,1,CSE-D,Ethics in AI,Dr. Ayesha Tiwari,Dr. Preeti Batra,1,1
+Thursday,7,CSE-CS,Ethics in AI,Dr. Vikas Verma,Dr. Ayesha Tiwari,1,1
+Wednesday,7,CSE-A,Blockchain,Dr. Kritika Iyer,Dr. Mohit Mehta,1,1
+Wednesday,1,CSE-IOT,OOPs,Dr. Alok Iyer,None,0,0
+Monday,6,CSE-DS,Python Programming,Dr. Yash Batra,Dr. Rohit Batra,1,1
+Tuesday,2,CSE-E,Digital Logic,Dr. Mehul Sinha,None,0,0
+Thursday,8,CSE-F,NLP,Dr. Tanya Iyer,Dr. Rina Joshi,1,1
+Thursday,6,CSE-E,Project Lab,Dr. Kunal Batra,None,0,0
+Monday,5,CSE-D,Data Structures,Dr. Jyoti Mehta,None,0,0
+Tuesday,6,CSE-B,Project Lab,Dr. Mohit Joshi,None,0,0
+Tuesday,5,CSE-CS,Ethics in AI,Dr. Ayesha Tiwari,None,0,0
+Tuesday,3,CSE-DS,Computer Graphics,Dr. Divya Iyer,Dr. Preeti Sinha,1,1
+Tuesday,7,CSE-B,Communication Skills,Dr. Shruti Sinha,None,0,0
+Wednesday,3,CSE-F,OOPs,Dr. Pallavi Sharma,Dr. Alok Iyer,1,1
+Wednesday,8,CSE-B,Java Programming,Dr. Sameer Sinha,None,0,0
+Wednesday,1,CSE-C,Digital Logic,Dr. Rohit Kapoor,Dr. Ruchi Mehta,1,1
+Thursday,8,CSE-C,Ethics in AI,Dr. Preeti Batra,Dr. Ayesha Tiwari,1,1
+Wednesday,4,CSE-IOT,Cybersecurity,Dr. Rina Sharma,None,0,0
+Monday,7,CSE-B,Web Development,Dr. Isha Verma,Dr. Rohit Mehta,1,1
+Monday,1,CSE-B,AI,Dr. Isha Iyer,None,0,0
+Friday,8,CSE-F,Computer Networks,Dr. Mehul Mehta,Dr. Divya Joshi,1,1
+Friday,6,CSE-A,Machine Learning,Dr. Amit Sinha,Dr. Komal Batra,1,1
+Friday,3,CSE-CS,AR/VR,Dr. Mehul Joshi,Dr. Garima Sharma,1,1
+Wednesday,2,CSE-IOT,Compiler Design,Dr. Sanjay Kapoor,Dr. Yash Iyer,1,1
+Monday,6,CSE-IOT,Ethics in AI,Dr. Vikas Verma,None,0,0
+Monday,3,CSE-AIML,Python Programming,Dr. Garima Rao,Dr. Rohit Batra,1,1
+Monday,8,CSE-B,Java Programming,Dr. Sameer Sinha,Dr. Rajat Verma,1,1
+Wednesday,5,CSE-DS,AR/VR,Dr. Garima Verma,None,0,0
+Wednesday,1,CSE-AIML,Java Programming,Dr. Rajat Verma,Dr. Sameer Sinha,1,1
+Tuesday,7,CSE-B,DBMS Lab,Dr. Rajat Batra,None,0,0
+Thursday,6,CSE-E,Blockchain,Dr. Kritika Iyer,None,0,0
+Thursday,4,CSE-F,Operating Systems,Dr. Varun Kapoor,Dr. Sameer Kapoor,1,1
+Wednesday,6,CSE-A,OS Lab,Dr. Payal Kapoor,None,0,0
+Tuesday,8,CSE-DS,Blockchain,Dr. Mohit Mehta,Dr. Kritika Iyer,1,1
+Thursday,7,CSE-E,AI,Dr. Isha Iyer,Dr. Ayesha Sinha,1,1
+Wednesday,1,CSE-C,Data Structures,Dr. Simran Rao,Dr. Jyoti Mehta,1,1
+Monday,8,CSE-D,Software Engineering,Dr. Abhay Iyer,None,0,0
+Tuesday,4,CSE-IOT,Communication Skills,Dr. Shruti Sinha,Dr. Vikas Sharma,1,1
+Tuesday,4,CSE-D,Cybersecurity,Dr. Priya Iyer,None,0,0
+Wednesday,5,CSE-CS,CN Lab,Dr. Anjali Tiwari,Dr. Mehul Tiwari,1,1
+Friday,5,CSE-C,Operating Systems,Dr. Sneha Sharma,Dr. Varun Kapoor,1,1
+Friday,7,CSE-E,Java Programming,Dr. Rajat Verma,None,0,0
+Wednesday,7,CSE-C,Cybersecurity,Dr. Pooja Mehta,Dr. Rina Sharma,1,1
+Wednesday,5,CSE-E,Cloud Computing,Dr. Mohit Tiwari,None,0,0
+Thursday,6,CSE-C,OS Lab,Dr. Tina Mehta,Dr. Payal Kapoor,1,1
+Tuesday,3,CSE-D,Cloud Computing,Dr. Mohit Tiwari,Dr. Rohit Joshi,1,1
+Monday,8,CSE-IOT,Software Engineering,Dr. Abhay Kapoor,Dr. Abhay Iyer,1,1
+Monday,8,CSE-C,CN Lab,Dr. Anjali Tiwari,Dr. Mehul Tiwari,1,1
+Thursday,7,CSE-F,Data Structures,Dr. Jyoti Mehta,None,0,0
+Tuesday,3,CSE-B,Project Lab,Dr. Kunal Batra,None,0,0
+Friday,1,CSE-D,NLP,Dr. Tanya Iyer,None,0,0
+Thursday,6,CSE-IOT,DBMS,Dr. Uday Iyer,None,0,0
+Monday,8,CSE-DS,Project Lab,Dr. Mohit Joshi,None,0,0
+Wednesday,7,CSE-E,Java Programming,Dr. Rajat Verma,None,0,0
+Monday,3,CSE-AIML,Compiler Design,Dr. Yash Iyer,None,0,0
+Monday,4,CSE-IOT,Blockchain,Dr. Kritika Iyer,None,0,0
+Thursday,3,CSE-E,Cloud Computing,Dr. Rohit Joshi,Dr. Mohit Tiwari,1,1
+Thursday,2,CSE-F,Operating Systems,Dr. Sameer Kapoor,Dr. Varun Kapoor,1,1
+Wednesday,6,CSE-E,AI,Dr. Ayesha Sinha,None,0,0
+Thursday,4,CSE-B,Java Programming,Dr. Rajat Verma,None,0,0
+Tuesday,3,CSE-B,Communication Skills,Dr. Shruti Sinha,Dr. Anjali Kapoor,1,1
+Tuesday,5,CSE-D,Compiler Design,Dr. Harsh Joshi,None,0,0
+Friday,3,CSE-D,DBMS,Dr. Uday Iyer,None,0,0
+Monday,2,CSE-AIML,CN Lab,Dr. Mehul Tiwari,None,0,0
+Wednesday,5,CSE-F,Project Lab,Dr. Mohit Joshi,None,0,0
+Friday,3,CSE-E,Project Lab,Dr. Mohit Joshi,Dr. Kunal Batra,1,1
+Friday,3,CSE-E,Project Lab,Dr. Kunal Batra,None,0,0
+Tuesday,1,CSE-B,Ethics in AI,Dr. Preeti Batra,None,0,0
+Tuesday,8,CSE-IOT,Web Development,Dr. Isha Verma,None,0,0
+Monday,6,CSE-D,Cloud Computing,Dr. Mohit Tiwari,None,0,0
+Friday,2,CSE-IOT,NLP,Dr. Rina Joshi,Dr. Tanya Iyer,1,1
+Tuesday,5,CSE-A,OS Lab,Dr. Tina Mehta,Dr. Payal Kapoor,1,1
+Wednesday,3,CSE-A,Project Lab,Dr. Kunal Batra,Dr. Mohit Joshi,1,1
+Thursday,5,CSE-A,Compiler Design,Dr. Harsh Joshi,Dr. Yash Iyer,1,1
+Wednesday,2,CSE-A,DBMS,Dr. Uday Iyer,Dr. Deepak Kapoor,1,1
+Thursday,5,CSE-AIML,NLP,Dr. Rina Joshi,Dr. Tanya Iyer,1,1
+Thursday,6,CSE-D,OS Lab,Dr. Payal Kapoor,None,0,0
+Wednesday,5,CSE-DS,Java Programming,Dr. Rajat Verma,Dr. Sameer Sinha,1,1
+Thursday,2,CSE-D,NLP,Dr. Rina Joshi,Dr. Tanya Iyer,1,1
+Friday,4,CSE-B,Computer Networks,Dr. Mehul Mehta,Dr. Divya Joshi,1,1
+Thursday,1,CSE-CS,Compiler Design,Dr. Sanjay Kapoor,None,0,0
+Thursday,3,CSE-D,Digital Logic,Dr. Ruchi Mehta,None,0,0
+Friday,5,CSE-C,AR/VR,Dr. Mehul Joshi,Dr. Garima Sharma,1,1
+Wednesday,8,CSE-IOT,Computer Networks,Dr. Divya Joshi,Dr. Mehul Mehta,1,1
+Wednesday,5,CSE-D,Project Lab,Dr. Mohit Joshi,Dr. Kunal Batra,1,1
+Wednesday,3,CSE-B,CN Lab,Dr. Anjali Tiwari,Dr. Mehul Tiwari,1,1
+Monday,6,CSE-D,Blockchain,Dr. Mohit Mehta,Dr. Kritika Iyer,1,1
+Monday,4,CSE-E,Communication Skills,Dr. Anjali Kapoor,None,0,0
+Friday,3,CSE-C,Cloud Computing,Dr. Mohit Tiwari,Dr. Rohit Joshi,1,1
+Thursday,1,CSE-F,Operating Systems,Dr. Sneha Sharma,Dr. Varun Kapoor,1,1
+Wednesday,5,CSE-DS,OS Lab,Dr. Payal Kapoor,None,0,0
+Friday,3,CSE-D,OOPs,Dr. Alok Iyer,Dr. Pallavi Sharma,1,1
+Tuesday,1,CSE-B,AI,Dr. Ayesha Sinha,Dr. Isha Iyer,1,1
+Wednesday,3,CSE-DS,Computer Graphics,Dr. Divya Iyer,Dr. Mehul Verma,1,1
+Wednesday,3,CSE-F,Operating Systems,Dr. Sneha Sharma,None,0,0
+Tuesday,7,CSE-F,Python Programming,Dr. Garima Rao,None,0,0
+Friday,7,CSE-D,Ethics in AI,Dr. Ayesha Tiwari,None,0,0
+Tuesday,5,CSE-AIML,Cloud Computing,Dr. Rohit Joshi,Dr. Mohit Tiwari,1,1
+Thursday,4,CSE-DS,Machine Learning,Dr. Amit Sinha,None,0,0
+Thursday,8,CSE-A,Java Programming,Dr. Rajat Verma,None,0,0
+Thursday,3,CSE-C,Digital Logic,Dr. Ruchi Mehta,None,0,0
+Friday,8,CSE-D,Computer Graphics,Dr. Preeti Sinha,Dr. Mehul Verma,1,1
+Thursday,1,CSE-F,Cloud Computing,Dr. Mohit Tiwari,Dr. Rohit Joshi,1,1
+Friday,4,CSE-A,CN Lab,Dr. Mehul Tiwari,Dr. Anjali Tiwari,1,1
+Friday,2,CSE-A,AI,Dr. Isha Iyer,Dr. Ayesha Sinha,1,1
+Thursday,4,CSE-CS,Cloud Computing,Dr. Mohit Tiwari,Dr. Rohit Joshi,1,1
+Tuesday,5,CSE-C,CN Lab,Dr. Anjali Tiwari,Dr. Mehul Tiwari,1,1
+Tuesday,4,CSE-CS,Data Structures,Dr. Simran Rao,None,0,0
+Wednesday,2,CSE-CS,OOPs,Dr. Alok Iyer,Dr. Pallavi Sharma,1,1
+Tuesday,4,CSE-AIML,Communication Skills,Dr. Anjali Kapoor,Dr. Shruti Sinha,1,1
+Monday,7,CSE-C,Machine Learning,Dr. Komal Batra,Dr. Amit Sinha,1,1
+Thursday,2,CSE-E,Cloud Computing,Dr. Mohit Tiwari,None,0,0
+Thursday,3,CSE-D,Software Engineering,Dr. Abhay Iyer,Dr. Abhay Kapoor,1,1
+Wednesday,4,CSE-AIML,AI,Dr. Ayesha Sinha,Dr. Isha Iyer,1,1
+Thursday,5,CSE-DS,Project Lab,Dr. Kunal Batra,Dr. Mohit Joshi,1,1
+Tuesday,3,CSE-CS,NLP,Dr. Rina Joshi,None,0,0
+Friday,7,CSE-D,Software Engineering,Dr. Abhay Kapoor,None,0,0
+Thursday,3,CSE-C,Computer Networks,Dr. Mehul Mehta,Dr. Divya Joshi,1,1
+Friday,6,CSE-F,DBMS,Dr. Uday Iyer,Dr. Deepak Kapoor,1,1
+Wednesday,6,CSE-DS,Data Structures,Dr. Jyoti Mehta,Dr. Simran Rao,1,1
+Thursday,5,CSE-B,Computer Graphics,Dr. Mehul Verma,None,0,0
+Friday,3,CSE-D,NLP,Dr. Rina Joshi,Dr. Tanya Iyer,1,1
+Wednesday,8,CSE-E,Machine Learning,Dr. Amit Sinha,None,0,0
+Monday,7,CSE-AIML,Web Development,Dr. Isha Verma,None,0,0
+Friday,1,CSE-F,Machine Learning,Dr. Komal Batra,Dr. Amit Sinha,1,1
+Monday,3,CSE-B,Web Development,Dr. Isha Verma,Dr. Rohit Mehta,1,1
+Tuesday,5,CSE-CS,Blockchain,Dr. Mohit Mehta,Dr. Kritika Iyer,1,1
+Monday,2,CSE-E,Compiler Design,Dr. Sanjay Kapoor,Dr. Harsh Joshi,1,1
+Thursday,8,CSE-IOT,Compiler Design,Dr. Yash Iyer,None,0,0
+Thursday,3,CSE-E,Java Programming,Dr. Rajat Verma,None,0,0
+Wednesday,2,CSE-C,Blockchain,Dr. Mohit Mehta,Dr. Kritika Iyer,1,1
+Friday,1,CSE-E,AI,Dr. Ayesha Sinha,None,0,0
+Friday,3,CSE-AIML,CN Lab,Dr. Mehul Tiwari,Dr. Anjali Tiwari,1,1
+Tuesday,4,CSE-DS,DBMS Lab,Dr. Rajat Batra,None,0,0
+Thursday,7,CSE-A,Computer Networks,Dr. Mehul Mehta,Dr. Divya Joshi,1,1
+Friday,4,CSE-E,DBMS,Dr. Deepak Kapoor,Dr. Uday Iyer,1,1
+Thursday,3,CSE-E,NLP,Dr. Rina Joshi,Dr. Tanya Iyer,1,1
+Friday,8,CSE-D,Computer Networks,Dr. Divya Joshi,None,0,0
+Wednesday,2,CSE-AIML,DBMS,Dr. Deepak Kapoor,Dr. Uday Iyer,1,1
+Thursday,5,CSE-E,Cloud Computing,Dr. Mohit Tiwari,None,0,0
+Thursday,7,CSE-A,Software Engineering,Dr. Abhay Iyer,Dr. Abhay Kapoor,1,1
+Thursday,2,CSE-CS,Data Structures,Dr. Jyoti Mehta,None,0,0
+Monday,2,CSE-IOT,CN Lab,Dr. Mehul Tiwari,Dr. Anjali Tiwari,1,1
+Tuesday,5,CSE-IOT,Computer Graphics,Dr. Preeti Sinha,Dr. Divya Iyer,1,1
+Monday,8,CSE-F,Communication Skills,Dr. Vikas Sharma,None,0,0
+Tuesday,8,CSE-F,AR/VR,Dr. Garima Sharma,Dr. Mehul Joshi,1,1
+Tuesday,4,CSE-F,Data Structures,Dr. Jyoti Mehta,None,0,0
+Tuesday,3,CSE-E,Digital Logic,Dr. Rohit Kapoor,None,0,0
+Monday,8,CSE-E,AR/VR,Dr. Garima Sharma,None,0,0
+Thursday,7,CSE-C,Communication Skills,Dr. Vikas Sharma,None,0,0
+Friday,8,CSE-D,Python Programming,Dr. Rohit Batra,None,0,0
+Tuesday,5,CSE-A,Python Programming,Dr. Rohit Batra,None,0,0
+Friday,5,CSE-E,Communication Skills,Dr. Shruti Sinha,None,0,0
+Wednesday,6,CSE-F,AI,Dr. Isha Iyer,None,0,0
+Monday,2,CSE-IOT,DBMS,Dr. Uday Iyer,None,0,0
+Thursday,5,CSE-E,AR/VR,Dr. Garima Sharma,Dr. Mehul Joshi,1,1
+Wednesday,1,CSE-D,Python Programming,Dr. Rohit Batra,None,0,0
+Monday,6,CSE-IOT,Operating Systems,Dr. Sameer Kapoor,None,0,0
+Friday,7,CSE-DS,Operating Systems,Dr. Sameer Kapoor,Dr. Varun Kapoor,1,1
+Tuesday,8,CSE-AIML,CN Lab,Dr. Mehul Tiwari,None,0,0
+Tuesday,5,CSE-DS,OS Lab,Dr. Payal Kapoor,None,0,0
+Thursday,2,CSE-E,DBMS,Dr. Uday Iyer,None,0,0
+Tuesday,5,CSE-A,Computer Networks,Dr. Mehul Mehta,None,0,0
+Friday,3,CSE-F,Data Structures,Dr. Jyoti Mehta,Dr. Simran Rao,1,1
+Wednesday,7,CSE-DS,Computer Networks,Dr. Mehul Mehta,Dr. Divya Joshi,1,1
+Monday,6,CSE-DS,Blockchain,Dr. Mohit Mehta,None,0,0
+Thursday,6,CSE-DS,Project Lab,Dr. Kunal Batra,None,0,0
+Thursday,5,CSE-C,AI,Dr. Isha Iyer,Dr. Ayesha Sinha,1,1
+Friday,7,CSE-AIML,Python Programming,Dr. Garima Rao,Dr. Yash Batra,1,1
+Friday,8,CSE-E,Compiler Design,Dr. Harsh Joshi,Dr. Sanjay Kapoor,1,1
+Monday,3,CSE-E,NLP,Dr. Rina Joshi,Dr. Tanya Iyer,1,1
+Thursday,7,CSE-AIML,Machine Learning,Dr. Amit Sinha,None,0,0
+Wednesday,1,CSE-IOT,Operating Systems,Dr. Sameer Kapoor,Dr. Varun Kapoor,1,1
+Friday,7,CSE-AIML,Ethics in AI,Dr. Vikas Verma,Dr. Ayesha Tiwari,1,1
+Thursday,4,CSE-E,Java Programming,Dr. Rajat Verma,None,0,0
+Thursday,2,CSE-E,AR/VR,Dr. Garima Sharma,Dr. Garima Verma,1,1
+Wednesday,1,CSE-B,DBMS,Dr. Deepak Kapoor,None,0,0
+Wednesday,8,CSE-E,CN Lab,Dr. Mehul Tiwari,None,0,0
+Thursday,1,CSE-E,Cybersecurity,Dr. Pooja Mehta,Dr. Priya Iyer,1,1
+Tuesday,6,CSE-B,Blockchain,Dr. Mohit Mehta,Dr. Kritika Iyer,1,1
+Friday,6,CSE-IOT,Cybersecurity,Dr. Pooja Mehta,Dr. Rina Sharma,1,1
+Thursday,4,CSE-CS,DBMS Lab,Dr. Tanvi Verma,None,0,0
+Thursday,1,CSE-IOT,AR/VR,Dr. Garima Verma,Dr. Mehul Joshi,1,1
+Friday,8,CSE-IOT,Cloud Computing,Dr. Mohit Tiwari,None,0,0
+Tuesday,4,CSE-F,Compiler Design,Dr. Sanjay Kapoor,Dr. Yash Iyer,1,1
+Wednesday,6,CSE-F,DBMS Lab,Dr. Rajat Batra,Dr. Tanvi Verma,1,1
+Tuesday,1,CSE-C,Cloud Computing,Dr. Mohit Tiwari,Dr. Rohit Joshi,1,1
+Friday,2,CSE-D,OS Lab,Dr. Payal Kapoor,Dr. Tina Mehta,1,1
+Monday,2,CSE-AIML,DBMS,Dr. Deepak Kapoor,Dr. Uday Iyer,1,1
+Thursday,4,CSE-IOT,Ethics in AI,Dr. Ayesha Tiwari,None,0,0
+Friday,8,CSE-B,Web Development,Dr. Rohit Mehta,Dr. Isha Verma,1,1
+Tuesday,5,CSE-IOT,DBMS Lab,Dr. Rajat Batra,None,0,0
+Tuesday,1,CSE-B,AI,Dr. Isha Iyer,Dr. Ayesha Sinha,1,1
+Thursday,8,CSE-C,Python Programming,Dr. Rohit Batra,None,0,0
+Thursday,5,CSE-CS,Computer Networks,Dr. Mehul Mehta,None,0,0
+Wednesday,6,CSE-DS,Machine Learning,Dr. Amit Sinha,Dr. Komal Batra,1,1
+Monday,7,CSE-B,AI,Dr. Ayesha Sinha,Dr. Isha Iyer,1,1
+Wednesday,8,CSE-F,DBMS Lab,Dr. Rajat Batra,Dr. Tanvi Verma,1,1
+Monday,2,CSE-E,OS Lab,Dr. Payal Kapoor,Dr. Tina Mehta,1,1
+Tuesday,1,CSE-CS,Project Lab,Dr. Mohit Joshi,Dr. Kunal Batra,1,1
+Tuesday,2,CSE-B,Computer Graphics,Dr. Preeti Sinha,None,0,0
+Thursday,5,CSE-A,CN Lab,Dr. Mehul Tiwari,None,0,0
+Friday,4,CSE-F,Software Engineering,Dr. Abhay Kapoor,None,0,0
+Friday,6,CSE-IOT,Cloud Computing,Dr. Mohit Tiwari,None,0,0
+Friday,8,CSE-F,Data Structures,Dr. Sameer Batra,Dr. Jyoti Mehta,1,1
+Friday,5,CSE-AIML,Compiler Design,Dr. Harsh Joshi,None,0,0
+Tuesday,4,CSE-A,Computer Networks,Dr. Divya Joshi,Dr. Mehul Mehta,1,1
+Thursday,5,CSE-CS,Ethics in AI,Dr. Preeti Batra,None,0,0
+Thursday,3,CSE-B,Computer Graphics,Dr. Preeti Sinha,Dr. Divya Iyer,1,1
+Tuesday,2,CSE-DS,AR/VR,Dr. Garima Sharma,None,0,0
+Wednesday,4,CSE-D,Operating Systems,Dr. Varun Kapoor,Dr. Sneha Sharma,1,1
+Monday,2,CSE-F,Operating Systems,Dr. Varun Kapoor,None,0,0
+Wednesday,4,CSE-CS,Computer Networks,Dr. Divya Joshi,None,0,0
+Friday,4,CSE-CS,Computer Networks,Dr. Divya Joshi,None,0,0
+Wednesday,7,CSE-B,Communication Skills,Dr. Vikas Sharma,Dr. Anjali Kapoor,1,1
+Friday,6,CSE-DS,AI,Dr. Isha Iyer,None,0,0
+Wednesday,7,CSE-AIML,CN Lab,Dr. Mehul Tiwari,None,0,0
+Thursday,1,CSE-CS,Software Engineering,Dr. Abhay Iyer,None,0,0
+Wednesday,4,CSE-F,NLP,Dr. Rina Joshi,None,0,0
+Wednesday,2,CSE-IOT,OS Lab,Dr. Tina Mehta,None,0,0
+Thursday,6,CSE-D,CN Lab,Dr. Anjali Tiwari,Dr. Mehul Tiwari,1,1
+Tuesday,4,CSE-C,Web Development,Dr. Isha Verma,None,0,0
+Monday,8,CSE-DS,Compiler Design,Dr. Yash Iyer,Dr. Harsh Joshi,1,1
+Monday,8,CSE-CS,OS Lab,Dr. Payal Kapoor,Dr. Tina Mehta,1,1
+Thursday,1,CSE-B,Cybersecurity,Dr. Pooja Mehta,None,0,0
+Thursday,6,CSE-AIML,DBMS,Dr. Uday Iyer,Dr. Deepak Kapoor,1,1
+Monday,2,CSE-B,AR/VR,Dr. Mehul Joshi,None,0,0
+Friday,4,CSE-DS,DBMS Lab,Dr. Tanvi Verma,None,0,0
+Monday,8,CSE-IOT,Software Engineering,Dr. Abhay Iyer,Dr. Abhay Kapoor,1,1
+Tuesday,6,CSE-D,AI,Dr. Isha Iyer,None,0,0
+Thursday,5,CSE-CS,Java Programming,Dr. Rajat Verma,Dr. Sameer Sinha,1,1
+Tuesday,1,CSE-F,Digital Logic,Dr. Rohit Kapoor,Dr. Ruchi Mehta,1,1
+Thursday,4,CSE-C,DBMS,Dr. Uday Iyer,Dr. Deepak Kapoor,1,1
+Thursday,6,CSE-B,AR/VR,Dr. Mehul Joshi,Dr. Garima Sharma,1,1
+Monday,2,CSE-AIML,Machine Learning,Dr. Amit Sinha,Dr. Komal Batra,1,1
+Friday,3,CSE-D,CN Lab,Dr. Mehul Tiwari,None,0,0
+Wednesday,7,CSE-DS,Machine Learning,Dr. Amit Sinha,Dr. Komal Batra,1,1
+Thursday,3,CSE-AIML,Project Lab,Dr. Kunal Batra,None,0,0
+Tuesday,2,CSE-D,Machine Learning,Dr. Komal Batra,Dr. Amit Sinha,1,1
+Friday,7,CSE-F,Cybersecurity,Dr. Pooja Mehta,Dr. Rina Sharma,1,1
+Tuesday,7,CSE-IOT,Software Engineering,Dr. Abhay Iyer,Dr. Abhay Kapoor,1,1
+Monday,8,CSE-A,Java Programming,Dr. Rajat Verma,None,0,0
+Tuesday,8,CSE-C,DBMS Lab,Dr. Rajat Batra,Dr. Tanvi Verma,1,1
+Thursday,5,CSE-DS,Compiler Design,Dr. Yash Iyer,None,0,0
+Friday,7,CSE-IOT,Cloud Computing,Dr. Mohit Tiwari,None,0,0
+Thursday,4,CSE-F,DBMS,Dr. Uday Iyer,None,0,0
+Friday,6,CSE-A,AR/VR,Dr. Garima Sharma,None,0,0
+Friday,3,CSE-B,AR/VR,Dr. Garima Sharma,Dr. Mehul Joshi,1,1
+Monday,6,CSE-AIML,Computer Graphics,Dr. Mehul Verma,Dr. Preeti Sinha,1,1
+Monday,3,CSE-IOT,Data Structures,Dr. Sameer Batra,Dr. Simran Rao,1,1
+Wednesday,8,CSE-IOT,Ethics in AI,Dr. Preeti Batra,Dr. Vikas Verma,1,1
+Thursday,5,CSE-E,OOPs,Dr. Pallavi Sharma,Dr. Alok Iyer,1,1
+Wednesday,2,CSE-AIML,Java Programming,Dr. Rajat Verma,None,0,0
+Monday,6,CSE-AIML,AI,Dr. Isha Iyer,Dr. Ayesha Sinha,1,1
+Monday,5,CSE-A,NLP,Dr. Tanya Iyer,Dr. Rina Joshi,1,1
+Wednesday,8,CSE-IOT,Web Development,Dr. Isha Verma,Dr. Rohit Mehta,1,1
+Monday,5,CSE-E,NLP,Dr. Rina Joshi,Dr. Tanya Iyer,1,1
+Wednesday,6,CSE-CS,OS Lab,Dr. Payal Kapoor,None,0,0
+Wednesday,3,CSE-E,CN Lab,Dr. Mehul Tiwari,None,0,0
+Tuesday,5,CSE-CS,Digital Logic,Dr. Ruchi Mehta,Dr. Rohit Kapoor,1,1
+Tuesday,4,CSE-D,Software Engineering,Dr. Abhay Iyer,None,0,0
+Tuesday,6,CSE-CS,Python Programming,Dr. Rohit Batra,None,0,0
+Wednesday,1,CSE-IOT,Cybersecurity,Dr. Pooja Mehta,None,0,0
+Friday,4,CSE-C,AR/VR,Dr. Garima Sharma,None,0,0
+Monday,5,CSE-DS,Communication Skills,Dr. Shruti Sinha,None,0,0
+Friday,1,CSE-AIML,Python Programming,Dr. Rohit Batra,None,0,0
+Tuesday,1,CSE-A,OOPs,Dr. Pallavi Sharma,None,0,0
+Tuesday,3,CSE-B,OOPs,Dr. Alok Iyer,None,0,0
+Thursday,2,CSE-IOT,Computer Graphics,Dr. Mehul Verma,Dr. Preeti Sinha,1,1
+Wednesday,2,CSE-D,Compiler Design,Dr. Yash Iyer,None,0,0
+Thursday,6,CSE-D,Java Programming,Dr. Rajat Verma,None,0,0
+Thursday,6,CSE-E,Communication Skills,Dr. Shruti Sinha,Dr. Anjali Kapoor,1,1
+Monday,3,CSE-C,Operating Systems,Dr. Sameer Kapoor,None,0,0
+Thursday,6,CSE-C,Java Programming,Dr. Rajat Verma,None,0,0
+Monday,8,CSE-A,DBMS,Dr. Deepak Kapoor,Dr. Uday Iyer,1,1
+Friday,4,CSE-IOT,AI,Dr. Ayesha Sinha,Dr. Isha Iyer,1,1
+Wednesday,7,CSE-F,OS Lab,Dr. Tina Mehta,None,0,0
+Monday,6,CSE-AIML,Cloud Computing,Dr. Mohit Tiwari,None,0,0
+Wednesday,7,CSE-C,Computer Graphics,Dr. Mehul Verma,None,0,0
+Tuesday,7,CSE-AIML,Ethics in AI,Dr. Preeti Batra,None,0,0
+Tuesday,2,CSE-F,NLP,Dr. Rina Joshi,None,0,0
+Thursday,2,CSE-AIML,NLP,Dr. Rina Joshi,None,0,0
+Wednesday,4,CSE-C,Computer Graphics,Dr. Divya Iyer,Dr. Preeti Sinha,1,1
+Thursday,1,CSE-D,DBMS Lab,Dr. Rajat Batra,Dr. Tanvi Verma,1,1
+Thursday,2,CSE-AIML,Python Programming,Dr. Yash Batra,None,0,0
+Monday,3,CSE-C,AR/VR,Dr. Garima Sharma,Dr. Mehul Joshi,1,1
+Tuesday,1,CSE-C,Digital Logic,Dr. Mehul Sinha,None,0,0
+Friday,8,CSE-C,Ethics in AI,Dr. Vikas Verma,Dr. Preeti Batra,1,1
+Thursday,4,CSE-C,Machine Learning,Dr. Amit Sinha,None,0,0
+Wednesday,7,CSE-DS,OOPs,Dr. Pallavi Sharma,Dr. Alok Iyer,1,1
+Monday,1,CSE-A,AR/VR,Dr. Garima Sharma,None,0,0
+Wednesday,6,CSE-F,AR/VR,Dr. Mehul Joshi,None,0,0
+Wednesday,1,CSE-CS,NLP,Dr. Tanya Iyer,None,0,0
+Friday,1,CSE-A,AI,Dr. Isha Iyer,None,0,0
+Monday,2,CSE-F,OOPs,Dr. Alok Iyer,Dr. Pallavi Sharma,1,1
+Tuesday,8,CSE-DS,Computer Networks,Dr. Divya Joshi,None,0,0
+Thursday,2,CSE-A,Web Development,Dr. Isha Verma,Dr. Rohit Mehta,1,1
+Friday,7,CSE-IOT,OOPs,Dr. Pallavi Sharma,None,0,0
+Friday,6,CSE-CS,Data Structures,Dr. Jyoti Mehta,Dr. Simran Rao,1,1
+Monday,3,CSE-DS,Ethics in AI,Dr. Vikas Verma,None,0,0
+Wednesday,1,CSE-C,Java Programming,Dr. Sameer Sinha,None,0,0
+Thursday,3,CSE-DS,Software Engineering,Dr. Abhay Kapoor,None,0,0
+Friday,3,CSE-IOT,Cybersecurity,Dr. Rina Sharma,None,0,0
+Thursday,5,CSE-C,CN Lab,Dr. Anjali Tiwari,Dr. Mehul Tiwari,1,1
+Thursday,2,CSE-DS,Java Programming,Dr. Rajat Verma,None,0,0
+Thursday,2,CSE-IOT,Java Programming,Dr. Sameer Sinha,Dr. Rajat Verma,1,1
+Thursday,5,CSE-IOT,OOPs,Dr. Pallavi Sharma,Dr. Alok Iyer,1,1
+Thursday,1,CSE-E,DBMS,Dr. Deepak Kapoor,None,0,0
+Thursday,2,CSE-AIML,Cybersecurity,Dr. Priya Iyer,None,0,0
+Friday,5,CSE-CS,Compiler Design,Dr. Yash Iyer,None,0,0
+Tuesday,1,CSE-E,NLP,Dr. Rina Joshi,Dr. Tanya Iyer,1,1
+Tuesday,6,CSE-DS,Computer Networks,Dr. Divya Joshi,None,0,0
+Tuesday,7,CSE-IOT,Project Lab,Dr. Mohit Joshi,Dr. Kunal Batra,1,1
+Friday,8,CSE-AIML,Java Programming,Dr. Rajat Verma,None,0,0
+Wednesday,1,CSE-DS,Blockchain,Dr. Mohit Mehta,None,0,0
+Wednesday,7,CSE-C,OOPs,Dr. Alok Iyer,None,0,0
+Wednesday,3,CSE-AIML,NLP,Dr. Tanya Iyer,Dr. Rina Joshi,1,1
+Tuesday,6,CSE-D,Python Programming,Dr. Garima Rao,None,0,0
+Tuesday,5,CSE-C,AR/VR,Dr. Garima Sharma,None,0,0
+Friday,8,CSE-D,Compiler Design,Dr. Harsh Joshi,None,0,0
+Thursday,7,CSE-E,AI,Dr. Ayesha Sinha,Dr. Isha Iyer,1,1
+Thursday,4,CSE-C,Ethics in AI,Dr. Vikas Verma,None,0,0
+Wednesday,3,CSE-CS,Ethics in AI,Dr. Vikas Verma,Dr. Ayesha Tiwari,1,1
+Monday,7,CSE-D,Data Structures,Dr. Jyoti Mehta,None,0,0
+Wednesday,5,CSE-IOT,DBMS Lab,Dr. Rajat Batra,None,0,0
+Tuesday,2,CSE-E,Python Programming,Dr. Rohit Batra,None,0,0
+Thursday,6,CSE-E,CN Lab,Dr. Mehul Tiwari,None,0,0
+Friday,5,CSE-F,Compiler Design,Dr. Yash Iyer,Dr. Harsh Joshi,1,1
+Tuesday,6,CSE-DS,NLP,Dr. Tanya Iyer,Dr. Rina Joshi,1,1
+Wednesday,5,CSE-D,CN Lab,Dr. Mehul Tiwari,Dr. Anjali Tiwari,1,1
+Wednesday,2,CSE-AIML,Compiler Design,Dr. Yash Iyer,Dr. Harsh Joshi,1,1
+Wednesday,6,CSE-CS,Digital Logic,Dr. Ruchi Mehta,Dr. Rohit Kapoor,1,1
+Thursday,4,CSE-CS,DBMS,Dr. Uday Iyer,None,0,0
+Monday,6,CSE-E,Communication Skills,Dr. Anjali Kapoor,None,0,0
+Monday,1,CSE-C,DBMS Lab,Dr. Tanvi Verma,Dr. Rajat Batra,1,1
+Tuesday,4,CSE-A,AR/VR,Dr. Garima Verma,Dr. Mehul Joshi,1,1
+Monday,4,CSE-C,NLP,Dr. Tanya Iyer,Dr. Rina Joshi,1,1
+Monday,7,CSE-CS,NLP,Dr. Tanya Iyer,Dr. Rina Joshi,1,1
+Wednesday,6,CSE-B,Blockchain,Dr. Kritika Iyer,None,0,0
+Wednesday,4,CSE-D,Operating Systems,Dr. Sneha Sharma,None,0,0
+Tuesday,6,CSE-IOT,CN Lab,Dr. Anjali Tiwari,None,0,0
+Wednesday,4,CSE-AIML,Ethics in AI,Dr. Vikas Verma,None,0,0
+Friday,3,CSE-F,Cybersecurity,Dr. Pooja Mehta,Dr. Rina Sharma,1,1
+Monday,6,CSE-B,Machine Learning,Dr. Komal Batra,Dr. Amit Sinha,1,1
+Thursday,3,CSE-F,CN Lab,Dr. Anjali Tiwari,None,0,0
+Thursday,1,CSE-IOT,OOPs,Dr. Alok Iyer,None,0,0
+Monday,2,CSE-DS,Computer Networks,Dr. Mehul Mehta,None,0,0
+Friday,1,CSE-D,Blockchain,Dr. Kritika Iyer,None,0,0
+Monday,6,CSE-C,Java Programming,Dr. Sameer Sinha,None,0,0
+Wednesday,5,CSE-F,OS Lab,Dr. Payal Kapoor,Dr. Tina Mehta,1,1
+Wednesday,6,CSE-F,Blockchain,Dr. Mohit Mehta,None,0,0
+Monday,6,CSE-C,Web Development,Dr. Rohit Mehta,None,0,0
+Friday,3,CSE-AIML,Java Programming,Dr. Rajat Verma,None,0,0
+Tuesday,8,CSE-F,CN Lab,Dr. Mehul Tiwari,Dr. Anjali Tiwari,1,1
+Monday,7,CSE-IOT,Web Development,Dr. Isha Verma,None,0,0
+Thursday,5,CSE-C,Computer Networks,Dr. Divya Joshi,None,0,0
+Tuesday,6,CSE-B,Project Lab,Dr. Kunal Batra,None,0,0
+Wednesday,2,CSE-CS,Ethics in AI,Dr. Vikas Verma,None,0,0
+Friday,8,CSE-E,OS Lab,Dr. Tina Mehta,None,0,0
+Tuesday,6,CSE-F,DBMS Lab,Dr. Tanvi Verma,None,0,0
+Thursday,6,CSE-DS,Data Structures,Dr. Simran Rao,None,0,0
+Tuesday,1,CSE-C,Project Lab,Dr. Mohit Joshi,Dr. Kunal Batra,1,1
+Friday,7,CSE-AIML,OOPs,Dr. Pallavi Sharma,None,0,0
+Wednesday,3,CSE-C,Digital Logic,Dr. Ruchi Mehta,Dr. Mehul Sinha,1,1
+Wednesday,8,CSE-IOT,Java Programming,Dr. Sameer Sinha,Dr. Rajat Verma,1,1
+Wednesday,8,CSE-A,Web Development,Dr. Rohit Mehta,Dr. Isha Verma,1,1
+Friday,5,CSE-IOT,Web Development,Dr. Isha Verma,None,0,0
+Tuesday,6,CSE-F,Project Lab,Dr. Kunal Batra,None,0,0
+Wednesday,1,CSE-F,Computer Graphics,Dr. Preeti Sinha,None,0,0
+Thursday,8,CSE-D,DBMS Lab,Dr. Tanvi Verma,None,0,0
+Thursday,3,CSE-F,Compiler Design,Dr. Harsh Joshi,None,0,0
+Friday,4,CSE-F,AI,Dr. Isha Iyer,Dr. Ayesha Sinha,1,1
+Monday,6,CSE-D,Project Lab,Dr. Kunal Batra,None,0,0
+Thursday,7,CSE-F,Web Development,Dr. Isha Verma,Dr. Rohit Mehta,1,1
+Wednesday,3,CSE-A,Machine Learning,Dr. Amit Sinha,None,0,0
+Thursday,4,CSE-E,DBMS,Dr. Uday Iyer,Dr. Deepak Kapoor,1,1
+Monday,6,CSE-A,Python Programming,Dr. Yash Batra,None,0,0
+Tuesday,5,CSE-AIML,Machine Learning,Dr. Amit Sinha,None,0,0
+Tuesday,7,CSE-C,Blockchain,Dr. Kritika Iyer,None,0,0
+Wednesday,2,CSE-E,Software Engineering,Dr. Abhay Iyer,Dr. Abhay Kapoor,1,1
+Friday,1,CSE-B,Java Programming,Dr. Rajat Verma,Dr. Sameer Sinha,1,1
+Wednesday,2,CSE-F,Computer Graphics,Dr. Divya Iyer,Dr. Mehul Verma,1,1
+Tuesday,6,CSE-IOT,Web Development,Dr. Isha Verma,None,0,0
+Wednesday,1,CSE-E,Operating Systems,Dr. Varun Kapoor,Dr. Sneha Sharma,1,1
+Thursday,1,CSE-E,Software Engineering,Dr. Abhay Iyer,None,0,0
+Monday,5,CSE-C,Software Engineering,Dr. Abhay Kapoor,None,0,0
+Tuesday,3,CSE-IOT,Compiler Design,Dr. Yash Iyer,None,0,0
+Thursday,4,CSE-F,OS Lab,Dr. Tina Mehta,Dr. Payal Kapoor,1,1
+Friday,7,CSE-D,DBMS,Dr. Deepak Kapoor,None,0,0
+Tuesday,4,CSE-A,AI,Dr. Isha Iyer,Dr. Ayesha Sinha,1,1
+Tuesday,5,CSE-DS,OS Lab,Dr. Tina Mehta,None,0,0
+Thursday,2,CSE-A,Data Structures,Dr. Simran Rao,Dr. Jyoti Mehta,1,1
+Tuesday,7,CSE-E,Operating Systems,Dr. Sneha Sharma,Dr. Sameer Kapoor,1,1
+Tuesday,8,CSE-C,Cloud Computing,Dr. Rohit Joshi,Dr. Mohit Tiwari,1,1
+Wednesday,7,CSE-F,Operating Systems,Dr. Sameer Kapoor,Dr. Varun Kapoor,1,1
+Monday,8,CSE-IOT,Project Lab,Dr. Kunal Batra,None,0,0
+Monday,4,CSE-C,Cybersecurity,Dr. Rina Sharma,Dr. Pooja Mehta,1,1
+Friday,5,CSE-AIML,OS Lab,Dr. Payal Kapoor,Dr. Tina Mehta,1,1
+Friday,4,CSE-B,OOPs,Dr. Alok Iyer,None,0,0
+Wednesday,3,CSE-F,Digital Logic,Dr. Rohit Kapoor,Dr. Mehul Sinha,1,1
+Friday,7,CSE-E,Computer Networks,Dr. Divya Joshi,None,0,0
+Friday,3,CSE-B,OOPs,Dr. Alok Iyer,Dr. Pallavi Sharma,1,1
+Wednesday,5,CSE-C,Compiler Design,Dr. Sanjay Kapoor,Dr. Harsh Joshi,1,1
+Thursday,1,CSE-DS,Operating Systems,Dr. Sneha Sharma,None,0,0
+Friday,1,CSE-CS,Digital Logic,Dr. Ruchi Mehta,None,0,0
+Friday,6,CSE-DS,Communication Skills,Dr. Vikas Sharma,None,0,0
+Monday,7,CSE-A,Software Engineering,Dr. Abhay Kapoor,None,0,0
+Friday,6,CSE-E,Machine Learning,Dr. Amit Sinha,Dr. Komal Batra,1,1
+Friday,1,CSE-AIML,AI,Dr. Isha Iyer,Dr. Ayesha Sinha,1,1
+Monday,1,CSE-DS,Project Lab,Dr. Mohit Joshi,None,0,0
+Tuesday,2,CSE-D,Java Programming,Dr. Rajat Verma,None,0,0
+Monday,6,CSE-IOT,Communication Skills,Dr. Shruti Sinha,None,0,0
+Thursday,7,CSE-F,NLP,Dr. Rina Joshi,Dr. Tanya Iyer,1,1
+Monday,4,CSE-C,Cloud Computing,Dr. Mohit Tiwari,Dr. Rohit Joshi,1,1
+Friday,2,CSE-F,OS Lab,Dr. Payal Kapoor,None,0,0
+Monday,8,CSE-F,Data Structures,Dr. Sameer Batra,None,0,0
+Tuesday,1,CSE-IOT,Computer Graphics,Dr. Divya Iyer,None,0,0
+Monday,5,CSE-AIML,Machine Learning,Dr. Komal Batra,Dr. Amit Sinha,1,1
+Tuesday,1,CSE-IOT,Computer Graphics,Dr. Mehul Verma,Dr. Preeti Sinha,1,1
+Monday,8,CSE-AIML,Ethics in AI,Dr. Preeti Batra,Dr. Vikas Verma,1,1
+Wednesday,2,CSE-A,OOPs,Dr. Alok Iyer,None,0,0
+Tuesday,3,CSE-B,AI,Dr. Isha Iyer,None,0,0
+Wednesday,5,CSE-D,OS Lab,Dr. Payal Kapoor,None,0,0
+Monday,6,CSE-D,Cloud Computing,Dr. Mohit Tiwari,Dr. Rohit Joshi,1,1
+Wednesday,2,CSE-D,CN Lab,Dr. Anjali Tiwari,None,0,0
+Friday,7,CSE-F,DBMS,Dr. Deepak Kapoor,Dr. Uday Iyer,1,1
+Monday,6,CSE-IOT,DBMS Lab,Dr. Rajat Batra,None,0,0
+Wednesday,1,CSE-D,Machine Learning,Dr. Komal Batra,Dr. Amit Sinha,1,1
+Wednesday,1,CSE-D,Computer Networks,Dr. Divya Joshi,Dr. Mehul Mehta,1,1
+Monday,7,CSE-IOT,Blockchain,Dr. Kritika Iyer,None,0,0
+Tuesday,2,CSE-E,OOPs,Dr. Pallavi Sharma,None,0,0
+Thursday,5,CSE-CS,DBMS Lab,Dr. Rajat Batra,Dr. Tanvi Verma,1,1
+Tuesday,8,CSE-D,Computer Networks,Dr. Divya Joshi,None,0,0
+Tuesday,7,CSE-CS,AI,Dr. Isha Iyer,None,0,0
+Wednesday,4,CSE-C,DBMS Lab,Dr. Tanvi Verma,None,0,0
+Friday,4,CSE-E,Web Development,Dr. Rohit Mehta,None,0,0
+Tuesday,5,CSE-B,AR/VR,Dr. Garima Verma,None,0,0
+Thursday,3,CSE-D,DBMS,Dr. Uday Iyer,None,0,0
+Friday,4,CSE-A,Java Programming,Dr. Rajat Verma,Dr. Sameer Sinha,1,1
+Monday,7,CSE-F,DBMS Lab,Dr. Tanvi Verma,Dr. Rajat Batra,1,1
+Tuesday,1,CSE-CS,Cybersecurity,Dr. Rina Sharma,Dr. Pooja Mehta,1,1
+Monday,8,CSE-DS,DBMS Lab,Dr. Tanvi Verma,Dr. Rajat Batra,1,1
+Friday,3,CSE-AIML,Project Lab,Dr. Mohit Joshi,Dr. Kunal Batra,1,1
+Wednesday,6,CSE-B,Communication Skills,Dr. Shruti Sinha,Dr. Anjali Kapoor,1,1
+Thursday,6,CSE-IOT,DBMS Lab,Dr. Rajat Batra,None,0,0
+Friday,5,CSE-C,Communication Skills,Dr. Shruti Sinha,Dr. Vikas Sharma,1,1
+Thursday,3,CSE-C,Compiler Design,Dr. Harsh Joshi,Dr. Sanjay Kapoor,1,1
+Thursday,3,CSE-AIML,NLP,Dr. Tanya Iyer,None,0,0
+Tuesday,7,CSE-F,OS Lab,Dr. Payal Kapoor,Dr. Tina Mehta,1,1
+Friday,3,CSE-IOT,Compiler Design,Dr. Sanjay Kapoor,Dr. Harsh Joshi,1,1
+Tuesday,3,CSE-IOT,Computer Graphics,Dr. Divya Iyer,None,0,0
+Thursday,8,CSE-D,AR/VR,Dr. Garima Sharma,None,0,0
+Thursday,8,CSE-AIML,Computer Graphics,Dr. Divya Iyer,None,0,0
+Monday,1,CSE-CS,Project Lab,Dr. Mohit Joshi,Dr. Kunal Batra,1,1
+Friday,2,CSE-IOT,Software Engineering,Dr. Abhay Iyer,Dr. Abhay Kapoor,1,1
+Monday,7,CSE-DS,Java Programming,Dr. Rajat Verma,None,0,0
+Monday,8,CSE-B,Java Programming,Dr. Sameer Sinha,None,0,0
+Tuesday,3,CSE-A,Ethics in AI,Dr. Ayesha Tiwari,Dr. Preeti Batra,1,1
+Thursday,1,CSE-AIML,OS Lab,Dr. Tina Mehta,None,0,0
+Monday,1,CSE-IOT,Python Programming,Dr. Rohit Batra,None,0,0
+Wednesday,4,CSE-DS,OS Lab,Dr. Payal Kapoor,None,0,0
+Wednesday,3,CSE-DS,Compiler Design,Dr. Sanjay Kapoor,Dr. Harsh Joshi,1,1
+Monday,1,CSE-D,AR/VR,Dr. Garima Verma,None,0,0
+Friday,8,CSE-F,Computer Graphics,Dr. Preeti Sinha,Dr. Divya Iyer,1,1
+Thursday,8,CSE-B,CN Lab,Dr. Mehul Tiwari,None,0,0
+Friday,4,CSE-D,DBMS Lab,Dr. Tanvi Verma,Dr. Rajat Batra,1,1
+Thursday,5,CSE-D,Web Development,Dr. Isha Verma,None,0,0
+Thursday,2,CSE-F,Web Development,Dr. Isha Verma,None,0,0
+Monday,8,CSE-C,Computer Networks,Dr. Divya Joshi,Dr. Mehul Mehta,1,1
+Thursday,5,CSE-D,DBMS Lab,Dr. Rajat Batra,None,0,0
+Tuesday,3,CSE-E,OOPs,Dr. Alok Iyer,Dr. Pallavi Sharma,1,1
+Tuesday,4,CSE-E,OS Lab,Dr. Tina Mehta,None,0,0
+Friday,5,CSE-CS,Computer Networks,Dr. Divya Joshi,None,0,0
+Monday,8,CSE-D,Computer Networks,Dr. Mehul Mehta,Dr. Divya Joshi,1,1
+Friday,7,CSE-DS,AI,Dr. Ayesha Sinha,Dr. Isha Iyer,1,1
+Tuesday,8,CSE-C,Cybersecurity,Dr. Priya Iyer,Dr. Pooja Mehta,1,1
+Friday,7,CSE-E,Data Structures,Dr. Jyoti Mehta,None,0,0
+Friday,4,CSE-IOT,Software Engineering,Dr. Abhay Iyer,Dr. Abhay Kapoor,1,1
+Wednesday,2,CSE-CS,Ethics in AI,Dr. Ayesha Tiwari,None,0,0
+Wednesday,1,CSE-A,Ethics in AI,Dr. Vikas Verma,Dr. Preeti Batra,1,1
+Friday,3,CSE-B,DBMS Lab,Dr. Rajat Batra,Dr. Tanvi Verma,1,1
+Monday,4,CSE-F,AI,Dr. Isha Iyer,Dr. Ayesha Sinha,1,1
+Friday,3,CSE-AIML,Computer Graphics,Dr. Preeti Sinha,Dr. Divya Iyer,1,1
+Thursday,2,CSE-IOT,Ethics in AI,Dr. Preeti Batra,None,0,0
+Wednesday,2,CSE-CS,Computer Graphics,Dr. Mehul Verma,Dr. Divya Iyer,1,1
+Wednesday,8,CSE-A,Cloud Computing,Dr. Mohit Tiwari,Dr. Rohit Joshi,1,1
+Friday,5,CSE-E,Computer Networks,Dr. Divya Joshi,None,0,0
+Wednesday,4,CSE-C,Computer Networks,Dr. Mehul Mehta,Dr. Divya Joshi,1,1
+Tuesday,4,CSE-C,NLP,Dr. Rina Joshi,None,0,0
+Friday,3,CSE-IOT,Blockchain,Dr. Kritika Iyer,Dr. Mohit Mehta,1,1
+Thursday,6,CSE-DS,AR/VR,Dr. Mehul Joshi,None,0,0
+Thursday,2,CSE-F,Cloud Computing,Dr. Rohit Joshi,None,0,0
+Tuesday,6,CSE-AIML,Operating Systems,Dr. Sameer Kapoor,Dr. Varun Kapoor,1,1
+Tuesday,7,CSE-A,OOPs,Dr. Alok Iyer,None,0,0
+Friday,7,CSE-F,DBMS Lab,Dr. Rajat Batra,Dr. Tanvi Verma,1,1
+Thursday,1,CSE-IOT,Cloud Computing,Dr. Rohit Joshi,Dr. Mohit Tiwari,1,1
+Wednesday,5,CSE-F,NLP,Dr. Tanya Iyer,None,0,0
+Thursday,3,CSE-A,NLP,Dr. Rina Joshi,None,0,0
+Wednesday,3,CSE-A,AR/VR,Dr. Mehul Joshi,Dr. Garima Verma,1,1
+Wednesday,1,CSE-F,Compiler Design,Dr. Harsh Joshi,None,0,0
+Thursday,7,CSE-AIML,Data Structures,Dr. Jyoti Mehta,Dr. Simran Rao,1,1
+Wednesday,3,CSE-AIML,Web Development,Dr. Isha Verma,Dr. Rohit Mehta,1,1
+Wednesday,4,CSE-AIML,CN Lab,Dr. Mehul Tiwari,Dr. Anjali Tiwari,1,1
+Wednesday,8,CSE-F,Communication Skills,Dr. Shruti Sinha,None,0,0
+Tuesday,2,CSE-B,Web Development,Dr. Rohit Mehta,None,0,0
+Friday,6,CSE-DS,Project Lab,Dr. Kunal Batra,None,0,0
+Wednesday,1,CSE-C,DBMS Lab,Dr. Tanvi Verma,None,0,0
+Tuesday,4,CSE-IOT,Operating Systems,Dr. Sameer Kapoor,None,0,0
+Friday,5,CSE-D,OS Lab,Dr. Tina Mehta,Dr. Payal Kapoor,1,1
+Wednesday,3,CSE-DS,Machine Learning,Dr. Amit Sinha,Dr. Komal Batra,1,1
+Wednesday,2,CSE-D,Web Development,Dr. Rohit Mehta,None,0,0
+Monday,8,CSE-C,Compiler Design,Dr. Yash Iyer,Dr. Sanjay Kapoor,1,1
+Tuesday,4,CSE-DS,Digital Logic,Dr. Mehul Sinha,Dr. Ruchi Mehta,1,1
+Friday,2,CSE-D,AR/VR,Dr. Mehul Joshi,None,0,0
+Wednesday,5,CSE-B,Digital Logic,Dr. Rohit Kapoor,Dr. Ruchi Mehta,1,1
+Thursday,5,CSE-F,Computer Graphics,Dr. Mehul Verma,Dr. Preeti Sinha,1,1
+Wednesday,3,CSE-AIML,NLP,Dr. Tanya Iyer,None,0,0
+Wednesday,2,CSE-IOT,CN Lab,Dr. Anjali Tiwari,None,0,0
+Friday,3,CSE-C,OOPs,Dr. Pallavi Sharma,Dr. Alok Iyer,1,1
+Monday,3,CSE-B,Python Programming,Dr. Garima Rao,Dr. Yash Batra,1,1
+Thursday,4,CSE-CS,Cybersecurity,Dr. Rina Sharma,None,0,0
+Monday,3,CSE-E,Web Development,Dr. Rohit Mehta,None,0,0
+Monday,5,CSE-CS,Data Structures,Dr. Sameer Batra,None,0,0
+Wednesday,3,CSE-E,NLP,Dr. Tanya Iyer,None,0,0
+Wednesday,2,CSE-E,AI,Dr. Ayesha Sinha,Dr. Isha Iyer,1,1
+Wednesday,8,CSE-A,Operating Systems,Dr. Varun Kapoor,Dr. Sneha Sharma,1,1
+Thursday,1,CSE-CS,AI,Dr. Isha Iyer,None,0,0
+Friday,8,CSE-IOT,Project Lab,Dr. Kunal Batra,None,0,0
+Tuesday,4,CSE-B,Project Lab,Dr. Kunal Batra,None,0,0
+Monday,4,CSE-CS,Data Structures,Dr. Sameer Batra,None,0,0
+Tuesday,1,CSE-CS,Operating Systems,Dr. Sameer Kapoor,None,0,0
+Friday,7,CSE-DS,Cybersecurity,Dr. Priya Iyer,Dr. Rina Sharma,1,1
+Monday,1,CSE-B,Web Development,Dr. Rohit Mehta,Dr. Isha Verma,1,1
+Wednesday,6,CSE-E,NLP,Dr. Rina Joshi,None,0,0
+Tuesday,1,CSE-D,DBMS Lab,Dr. Rajat Batra,None,0,0
+Monday,3,CSE-AIML,Project Lab,Dr. Mohit Joshi,Dr. Kunal Batra,1,1
+Thursday,7,CSE-IOT,Computer Networks,Dr. Mehul Mehta,None,0,0
+Wednesday,7,CSE-CS,Machine Learning,Dr. Amit Sinha,Dr. Komal Batra,1,1
+Tuesday,6,CSE-D,AI,Dr. Isha Iyer,None,0,0
+Wednesday,1,CSE-DS,Java Programming,Dr. Rajat Verma,Dr. Sameer Sinha,1,1
+Monday,1,CSE-AIML,AR/VR,Dr. Garima Verma,Dr. Mehul Joshi,1,1
+Tuesday,4,CSE-E,Web Development,Dr. Rohit Mehta,Dr. Isha Verma,1,1
+Wednesday,2,CSE-D,OS Lab,Dr. Payal Kapoor,None,0,0
+Wednesday,8,CSE-E,Project Lab,Dr. Kunal Batra,None,0,0
+Monday,7,CSE-A,Computer Networks,Dr. Mehul Mehta,Dr. Divya Joshi,1,1
+Wednesday,5,CSE-A,CN Lab,Dr. Mehul Tiwari,None,0,0
+Wednesday,4,CSE-A,DBMS,Dr. Uday Iyer,None,0,0
+Monday,7,CSE-CS,NLP,Dr. Rina Joshi,Dr. Tanya Iyer,1,1
+Wednesday,8,CSE-D,Machine Learning,Dr. Komal Batra,Dr. Amit Sinha,1,1
+Thursday,1,CSE-AIML,Software Engineering,Dr. Abhay Kapoor,Dr. Abhay Iyer,1,1
+Friday,6,CSE-D,Software Engineering,Dr. Abhay Iyer,None,0,0
+Monday,6,CSE-E,Project Lab,Dr. Kunal Batra,None,0,0
+Monday,4,CSE-IOT,OOPs,Dr. Pallavi Sharma,Dr. Alok Iyer,1,1
+Friday,1,CSE-CS,Project Lab,Dr. Kunal Batra,Dr. Mohit Joshi,1,1
+Friday,1,CSE-C,Project Lab,Dr. Mohit Joshi,Dr. Kunal Batra,1,1
+Friday,5,CSE-C,Web Development,Dr. Rohit Mehta,None,0,0
+Monday,6,CSE-A,Communication Skills,Dr. Vikas Sharma,None,0,0
+Monday,8,CSE-B,Data Structures,Dr. Jyoti Mehta,Dr. Simran Rao,1,1
+Tuesday,4,CSE-D,Communication Skills,Dr. Shruti Sinha,Dr. Anjali Kapoor,1,1
+Wednesday,7,CSE-E,OS Lab,Dr. Tina Mehta,None,0,0
+Friday,2,CSE-AIML,DBMS,Dr. Deepak Kapoor,Dr. Uday Iyer,1,1
+Thursday,2,CSE-AIML,Web Development,Dr. Isha Verma,None,0,0
+Thursday,6,CSE-CS,DBMS,Dr. Deepak Kapoor,Dr. Uday Iyer,1,1
+Thursday,4,CSE-IOT,DBMS Lab,Dr. Rajat Batra,None,0,0
+Tuesday,6,CSE-C,Machine Learning,Dr. Komal Batra,Dr. Amit Sinha,1,1
+Friday,4,CSE-F,Project Lab,Dr. Mohit Joshi,None,0,0
+Friday,3,CSE-E,DBMS,Dr. Deepak Kapoor,Dr. Uday Iyer,1,1
+Wednesday,1,CSE-DS,NLP,Dr. Rina Joshi,Dr. Tanya Iyer,1,1
+Tuesday,5,CSE-D,Project Lab,Dr. Kunal Batra,Dr. Mohit Joshi,1,1
+Thursday,2,CSE-F,Blockchain,Dr. Mohit Mehta,Dr. Kritika Iyer,1,1
+Tuesday,5,CSE-E,Computer Networks,Dr. Mehul Mehta,Dr. Divya Joshi,1,1
+Thursday,1,CSE-AIML,Operating Systems,Dr. Sameer Kapoor,None,0,0
+Wednesday,3,CSE-CS,Operating Systems,Dr. Sneha Sharma,Dr. Varun Kapoor,1,1
+Friday,7,CSE-DS,Machine Learning,Dr. Komal Batra,None,0,0
+Wednesday,6,CSE-E,Operating Systems,Dr. Varun Kapoor,Dr. Sameer Kapoor,1,1
+Wednesday,1,CSE-E,Data Structures,Dr. Simran Rao,Dr. Sameer Batra,1,1
+Tuesday,2,CSE-B,Computer Graphics,Dr. Divya Iyer,Dr. Mehul Verma,1,1
+Thursday,4,CSE-F,OOPs,Dr. Alok Iyer,Dr. Pallavi Sharma,1,1
+Wednesday,8,CSE-D,Web Development,Dr. Rohit Mehta,Dr. Isha Verma,1,1
+Tuesday,8,CSE-IOT,AR/VR,Dr. Mehul Joshi,None,0,0
+Friday,2,CSE-D,Machine Learning,Dr. Amit Sinha,Dr. Komal Batra,1,1
+Tuesday,1,CSE-E,Cloud Computing,Dr. Rohit Joshi,Dr. Mohit Tiwari,1,1
+Monday,2,CSE-A,OS Lab,Dr. Tina Mehta,Dr. Payal Kapoor,1,1
+Tuesday,8,CSE-D,OOPs,Dr. Alok Iyer,Dr. Pallavi Sharma,1,1
+Tuesday,3,CSE-DS,Blockchain,Dr. Mohit Mehta,None,0,0
+Thursday,5,CSE-D,Compiler Design,Dr. Sanjay Kapoor,Dr. Yash Iyer,1,1
+Monday,1,CSE-C,DBMS Lab,Dr. Rajat Batra,None,0,0
+Monday,7,CSE-CS,Python Programming,Dr. Rohit Batra,Dr. Garima Rao,1,1
+Wednesday,1,CSE-A,Compiler Design,Dr. Sanjay Kapoor,Dr. Harsh Joshi,1,1
+Tuesday,1,CSE-IOT,Ethics in AI,Dr. Ayesha Tiwari,Dr. Preeti Batra,1,1
+Friday,7,CSE-B,Cybersecurity,Dr. Pooja Mehta,None,0,0
+Tuesday,5,CSE-DS,Web Development,Dr. Isha Verma,None,0,0
+Monday,4,CSE-D,CN Lab,Dr. Mehul Tiwari,None,0,0
+Thursday,3,CSE-F,Machine Learning,Dr. Komal Batra,Dr. Amit Sinha,1,1
+Tuesday,7,CSE-A,OOPs,Dr. Pallavi Sharma,Dr. Alok Iyer,1,1
+Friday,1,CSE-DS,Software Engineering,Dr. Abhay Kapoor,None,0,0
+Monday,1,CSE-DS,Web Development,Dr. Isha Verma,Dr. Rohit Mehta,1,1
+Monday,7,CSE-C,Ethics in AI,Dr. Ayesha Tiwari,None,0,0
+Wednesday,6,CSE-C,DBMS,Dr. Uday Iyer,Dr. Deepak Kapoor,1,1
+Friday,5,CSE-E,AI,Dr. Ayesha Sinha,None,0,0
+Monday,4,CSE-B,Java Programming,Dr. Sameer Sinha,Dr. Rajat Verma,1,1
+Wednesday,6,CSE-F,NLP,Dr. Tanya Iyer,None,0,0
+Thursday,8,CSE-CS,Python Programming,Dr. Garima Rao,None,0,0
+Thursday,4,CSE-F,OOPs,Dr. Pallavi Sharma,Dr. Alok Iyer,1,1
+Tuesday,3,CSE-AIML,AR/VR,Dr. Mehul Joshi,Dr. Garima Sharma,1,1
+Wednesday,5,CSE-AIML,Cybersecurity,Dr. Priya Iyer,None,0,0
+Monday,1,CSE-F,AR/VR,Dr. Garima Verma,Dr. Garima Sharma,1,1
+Friday,5,CSE-CS,Machine Learning,Dr. Komal Batra,None,0,0
+Tuesday,7,CSE-IOT,OOPs,Dr. Alok Iyer,Dr. Pallavi Sharma,1,1
+Tuesday,4,CSE-D,Python Programming,Dr. Yash Batra,None,0,0
+Tuesday,1,CSE-CS,Computer Networks,Dr. Divya Joshi,Dr. Mehul Mehta,1,1
+Friday,2,CSE-DS,Operating Systems,Dr. Sameer Kapoor,Dr. Sneha Sharma,1,1
+Thursday,8,CSE-DS,DBMS,Dr. Deepak Kapoor,None,0,0
+Wednesday,1,CSE-A,AR/VR,Dr. Garima Verma,None,0,0
+Wednesday,3,CSE-AIML,Software Engineering,Dr. Abhay Iyer,Dr. Abhay Kapoor,1,1
+Wednesday,7,CSE-E,Data Structures,Dr. Jyoti Mehta,None,0,0
+Friday,5,CSE-D,Project Lab,Dr. Mohit Joshi,Dr. Kunal Batra,1,1
+Tuesday,4,CSE-B,Web Development,Dr. Isha Verma,Dr. Rohit Mehta,1,1
+Wednesday,1,CSE-CS,DBMS,Dr. Uday Iyer,None,0,0
+Friday,5,CSE-F,Ethics in AI,Dr. Preeti Batra,Dr. Vikas Verma,1,1
+Tuesday,4,CSE-A,Machine Learning,Dr. Amit Sinha,Dr. Komal Batra,1,1
+Friday,2,CSE-F,Machine Learning,Dr. Komal Batra,Dr. Amit Sinha,1,1
+Thursday,6,CSE-CS,Compiler Design,Dr. Harsh Joshi,None,0,0
+Monday,5,CSE-C,DBMS,Dr. Deepak Kapoor,None,0,0
+Thursday,8,CSE-E,Digital Logic,Dr. Ruchi Mehta,None,0,0
+Friday,7,CSE-F,AI,Dr. Ayesha Sinha,Dr. Isha Iyer,1,1
+Thursday,7,CSE-DS,Software Engineering,Dr. Abhay Iyer,None,0,0
+Tuesday,3,CSE-E,DBMS,Dr. Deepak Kapoor,Dr. Uday Iyer,1,1
+Thursday,4,CSE-A,DBMS Lab,Dr. Rajat Batra,None,0,0
+Friday,4,CSE-A,Python Programming,Dr. Rohit Batra,None,0,0
+Tuesday,5,CSE-A,OS Lab,Dr. Tina Mehta,None,0,0
+Monday,6,CSE-IOT,Java Programming,Dr. Rajat Verma,None,0,0
+Friday,1,CSE-A,OS Lab,Dr. Tina Mehta,None,0,0
+Thursday,7,CSE-D,AR/VR,Dr. Garima Verma,Dr. Garima Sharma,1,1
+Wednesday,4,CSE-B,Java Programming,Dr. Rajat Verma,None,0,0
+Monday,1,CSE-CS,Software Engineering,Dr. Abhay Iyer,Dr. Abhay Kapoor,1,1
+Friday,6,CSE-E,Cybersecurity,Dr. Priya Iyer,None,0,0
+Monday,1,CSE-DS,Project Lab,Dr. Mohit Joshi,Dr. Kunal Batra,1,1
+Monday,6,CSE-CS,Compiler Design,Dr. Yash Iyer,None,0,0
+Monday,3,CSE-D,CN Lab,Dr. Anjali Tiwari,Dr. Mehul Tiwari,1,1
+Tuesday,7,CSE-C,Python Programming,Dr. Rohit Batra,None,0,0
+Thursday,7,CSE-AIML,Software Engineering,Dr. Abhay Iyer,Dr. Abhay Kapoor,1,1
+Monday,2,CSE-CS,Operating Systems,Dr. Varun Kapoor,None,0,0
+Monday,2,CSE-B,NLP,Dr. Rina Joshi,Dr. Tanya Iyer,1,1
+Monday,4,CSE-IOT,Cloud Computing,Dr. Rohit Joshi,Dr. Mohit Tiwari,1,1
+Tuesday,8,CSE-CS,Ethics in AI,Dr. Ayesha Tiwari,None,0,0
+Monday,5,CSE-F,Machine Learning,Dr. Komal Batra,Dr. Amit Sinha,1,1
+Friday,5,CSE-A,Cloud Computing,Dr. Mohit Tiwari,Dr. Rohit Joshi,1,1
+Thursday,5,CSE-CS,Web Development,Dr. Isha Verma,Dr. Rohit Mehta,1,1
+Monday,1,CSE-IOT,Compiler Design,Dr. Harsh Joshi,Dr. Yash Iyer,1,1
+Wednesday,1,CSE-E,Compiler Design,Dr. Sanjay Kapoor,None,0,0
+Friday,3,CSE-B,Ethics in AI,Dr. Vikas Verma,Dr. Preeti Batra,1,1
+Monday,6,CSE-C,CN Lab,Dr. Anjali Tiwari,None,0,0
+Friday,8,CSE-D,Computer Networks,Dr. Divya Joshi,None,0,0
+Wednesday,2,CSE-AIML,AR/VR,Dr. Garima Verma,Dr. Mehul Joshi,1,1
+Monday,7,CSE-D,Computer Graphics,Dr. Mehul Verma,None,0,0
+Friday,2,CSE-D,Web Development,Dr. Rohit Mehta,Dr. Isha Verma,1,1
+Friday,8,CSE-C,OS Lab,Dr. Payal Kapoor,None,0,0
+Tuesday,5,CSE-C,Computer Graphics,Dr. Preeti Sinha,Dr. Mehul Verma,1,1
+Thursday,1,CSE-A,Machine Learning,Dr. Komal Batra,None,0,0
+Friday,3,CSE-IOT,Blockchain,Dr. Kritika Iyer,Dr. Mohit Mehta,1,1
+Wednesday,5,CSE-AIML,Operating Systems,Dr. Sameer Kapoor,Dr. Varun Kapoor,1,1
+Tuesday,2,CSE-AIML,OS Lab,Dr. Payal Kapoor,Dr. Tina Mehta,1,1
+Monday,2,CSE-A,Web Development,Dr. Rohit Mehta,Dr. Isha Verma,1,1
+Wednesday,6,CSE-B,Web Development,Dr. Isha Verma,None,0,0
+Wednesday,2,CSE-F,OOPs,Dr. Pallavi Sharma,Dr. Alok Iyer,1,1
+Friday,6,CSE-AIML,Project Lab,Dr. Mohit Joshi,Dr. Kunal Batra,1,1
+Thursday,1,CSE-CS,Java Programming,Dr. Rajat Verma,Dr. Sameer Sinha,1,1
+Tuesday,6,CSE-B,Compiler Design,Dr. Yash Iyer,Dr. Sanjay Kapoor,1,1
+Thursday,6,CSE-A,CN Lab,Dr. Anjali Tiwari,None,0,0
+Wednesday,6,CSE-AIML,CN Lab,Dr. Anjali Tiwari,Dr. Mehul Tiwari,1,1
+Monday,3,CSE-CS,Python Programming,Dr. Rohit Batra,Dr. Yash Batra,1,1
+Thursday,8,CSE-CS,Computer Networks,Dr. Mehul Mehta,None,0,0
+Wednesday,4,CSE-AIML,Communication Skills,Dr. Anjali Kapoor,None,0,0
+Friday,8,CSE-A,Ethics in AI,Dr. Preeti Batra,Dr. Vikas Verma,1,1
+Tuesday,8,CSE-C,NLP,Dr. Tanya Iyer,None,0,0
+Thursday,4,CSE-AIML,Compiler Design,Dr. Harsh Joshi,Dr. Yash Iyer,1,1
+Wednesday,3,CSE-AIML,AI,Dr. Ayesha Sinha,None,0,0
+Thursday,2,CSE-D,Ethics in AI,Dr. Vikas Verma,Dr. Preeti Batra,1,1
+Thursday,1,CSE-B,OOPs,Dr. Pallavi Sharma,Dr. Alok Iyer,1,1
+Monday,4,CSE-IOT,Cybersecurity,Dr. Pooja Mehta,None,0,0
+Friday,8,CSE-IOT,Cloud Computing,Dr. Rohit Joshi,Dr. Mohit Tiwari,1,1
+Tuesday,1,CSE-AIML,Web Development,Dr. Isha Verma,None,0,0
+Wednesday,2,CSE-E,OS Lab,Dr. Payal Kapoor,Dr. Tina Mehta,1,1
+Monday,7,CSE-A,Software Engineering,Dr. Abhay Iyer,None,0,0
+Wednesday,1,CSE-A,Computer Graphics,Dr. Preeti Sinha,None,0,0
+Tuesday,8,CSE-A,Ethics in AI,Dr. Ayesha Tiwari,Dr. Preeti Batra,1,1
+Wednesday,2,CSE-DS,Computer Networks,Dr. Divya Joshi,Dr. Mehul Mehta,1,1
+Thursday,7,CSE-IOT,Cybersecurity,Dr. Pooja Mehta,None,0,0
+Monday,8,CSE-IOT,Cloud Computing,Dr. Rohit Joshi,None,0,0
+Thursday,4,CSE-F,Data Structures,Dr. Sameer Batra,Dr. Simran Rao,1,1
+Wednesday,6,CSE-IOT,Python Programming,Dr. Garima Rao,Dr. Rohit Batra,1,1
+Thursday,6,CSE-E,Ethics in AI,Dr. Preeti Batra,Dr. Vikas Verma,1,1
+Thursday,5,CSE-D,Data Structures,Dr. Jyoti Mehta,None,0,0
+Wednesday,8,CSE-F,AI,Dr. Ayesha Sinha,None,0,0
+Wednesday,1,CSE-A,Digital Logic,Dr. Ruchi Mehta,Dr. Mehul Sinha,1,1
+Thursday,4,CSE-IOT,Python Programming,Dr. Garima Rao,None,0,0
+Tuesday,6,CSE-A,AR/VR,Dr. Garima Verma,None,0,0
+Monday,2,CSE-F,OS Lab,Dr. Payal Kapoor,None,0,0
+Friday,8,CSE-B,DBMS Lab,Dr. Rajat Batra,None,0,0
+Thursday,8,CSE-D,Blockchain,Dr. Kritika Iyer,None,0,0
+Monday,6,CSE-C,Digital Logic,Dr. Mehul Sinha,Dr. Ruchi Mehta,1,1
+Friday,1,CSE-IOT,DBMS Lab,Dr. Tanvi Verma,Dr. Rajat Batra,1,1
+Friday,6,CSE-F,Project Lab,Dr. Mohit Joshi,Dr. Kunal Batra,1,1
+Wednesday,1,CSE-B,Software Engineering,Dr. Abhay Iyer,Dr. Abhay Kapoor,1,1
+Tuesday,2,CSE-IOT,Python Programming,Dr. Rohit Batra,None,0,0
+Friday,3,CSE-D,Ethics in AI,Dr. Preeti Batra,None,0,0
+Wednesday,7,CSE-IOT,Computer Networks,Dr. Divya Joshi,Dr. Mehul Mehta,1,1
+Tuesday,2,CSE-B,Computer Graphics,Dr. Preeti Sinha,Dr. Divya Iyer,1,1
+Monday,2,CSE-A,Blockchain,Dr. Mohit Mehta,None,0,0
+Tuesday,3,CSE-D,Computer Networks,Dr. Mehul Mehta,None,0,0
+Friday,3,CSE-D,Data Structures,Dr. Sameer Batra,Dr. Jyoti Mehta,1,1
+Thursday,1,CSE-F,AR/VR,Dr. Mehul Joshi,Dr. Garima Sharma,1,1
+Thursday,3,CSE-IOT,Python Programming,Dr. Yash Batra,Dr. Rohit Batra,1,1
+Monday,8,CSE-IOT,Ethics in AI,Dr. Vikas Verma,None,0,0
+Friday,6,CSE-A,Digital Logic,Dr. Ruchi Mehta,Dr. Mehul Sinha,1,1
+Friday,3,CSE-AIML,NLP,Dr. Rina Joshi,None,0,0
+Friday,8,CSE-E,NLP,Dr. Rina Joshi,None,0,0
+Tuesday,2,CSE-AIML,Communication Skills,Dr. Anjali Kapoor,Dr. Vikas Sharma,1,1
+Friday,3,CSE-IOT,DBMS,Dr. Uday Iyer,None,0,0
+Tuesday,2,CSE-D,Communication Skills,Dr. Vikas Sharma,None,0,0
+Tuesday,4,CSE-B,Operating Systems,Dr. Varun Kapoor,Dr. Sameer Kapoor,1,1
+Monday,2,CSE-A,Project Lab,Dr. Mohit Joshi,Dr. Kunal Batra,1,1
+Wednesday,1,CSE-CS,Communication Skills,Dr. Shruti Sinha,None,0,0
+Thursday,8,CSE-E,Digital Logic,Dr. Mehul Sinha,Dr. Ruchi Mehta,1,1
+Thursday,2,CSE-F,Java Programming,Dr. Rajat Verma,Dr. Sameer Sinha,1,1
+Tuesday,2,CSE-A,Ethics in AI,Dr. Ayesha Tiwari,None,0,0
+Monday,5,CSE-IOT,Communication Skills,Dr. Anjali Kapoor,None,0,0
+Thursday,5,CSE-CS,DBMS,Dr. Uday Iyer,Dr. Deepak Kapoor,1,1
+Monday,2,CSE-D,OS Lab,Dr. Tina Mehta,None,0,0
+Wednesday,7,CSE-C,Java Programming,Dr. Sameer Sinha,None,0,0
+Friday,6,CSE-F,Computer Graphics,Dr. Mehul Verma,Dr. Divya Iyer,1,1
+Friday,7,CSE-DS,Data Structures,Dr. Sameer Batra,Dr. Simran Rao,1,1
+Wednesday,4,CSE-AIML,OOPs,Dr. Pallavi Sharma,None,0,0
+Wednesday,7,CSE-E,Data Structures,Dr. Jyoti Mehta,None,0,0
+Wednesday,2,CSE-B,Computer Graphics,Dr. Mehul Verma,Dr. Preeti Sinha,1,1
+Friday,3,CSE-IOT,Ethics in AI,Dr. Preeti Batra,None,0,0
+Monday,6,CSE-E,Java Programming,Dr. Sameer Sinha,None,0,0
+Thursday,8,CSE-A,DBMS,Dr. Uday Iyer,Dr. Deepak Kapoor,1,1
+Thursday,8,CSE-IOT,Java Programming,Dr. Rajat Verma,Dr. Sameer Sinha,1,1
+Wednesday,6,CSE-AIML,DBMS,Dr. Uday Iyer,None,0,0
+Tuesday,7,CSE-B,Blockchain,Dr. Mohit Mehta,Dr. Kritika Iyer,1,1
+Tuesday,8,CSE-A,Communication Skills,Dr. Anjali Kapoor,Dr. Vikas Sharma,1,1
+Tuesday,6,CSE-B,NLP,Dr. Tanya Iyer,None,0,0
+Tuesday,3,CSE-E,Java Programming,Dr. Rajat Verma,None,0,0
+Monday,8,CSE-IOT,Cybersecurity,Dr. Rina Sharma,Dr. Pooja Mehta,1,1
+Wednesday,6,CSE-IOT,CN Lab,Dr. Mehul Tiwari,None,0,0
+Friday,7,CSE-CS,AI,Dr. Ayesha Sinha,None,0,0
+Tuesday,2,CSE-C,Ethics in AI,Dr. Preeti Batra,None,0,0
+Monday,7,CSE-A,AI,Dr. Ayesha Sinha,None,0,0
+Monday,7,CSE-IOT,Blockchain,Dr. Kritika Iyer,None,0,0
+Monday,7,CSE-A,OS Lab,Dr. Tina Mehta,Dr. Payal Kapoor,1,1
+Friday,7,CSE-IOT,OOPs,Dr. Pallavi Sharma,Dr. Alok Iyer,1,1
+Monday,8,CSE-DS,Web Development,Dr. Isha Verma,Dr. Rohit Mehta,1,1
+Monday,5,CSE-A,OS Lab,Dr. Payal Kapoor,None,0,0
+Wednesday,8,CSE-DS,OOPs,Dr. Alok Iyer,Dr. Pallavi Sharma,1,1
+Wednesday,8,CSE-C,Machine Learning,Dr. Amit Sinha,Dr. Komal Batra,1,1
+Wednesday,3,CSE-CS,DBMS,Dr. Deepak Kapoor,None,0,0
+Tuesday,1,CSE-C,DBMS Lab,Dr. Rajat Batra,None,0,0
+Wednesday,3,CSE-AIML,Compiler Design,Dr. Sanjay Kapoor,None,0,0
+Thursday,3,CSE-F,CN Lab,Dr. Anjali Tiwari,Dr. Mehul Tiwari,1,1
+Monday,5,CSE-C,Compiler Design,Dr. Yash Iyer,None,0,0
+Tuesday,6,CSE-A,OOPs,Dr. Alok Iyer,Dr. Pallavi Sharma,1,1
+Thursday,5,CSE-DS,Communication Skills,Dr. Shruti Sinha,None,0,0
+Friday,3,CSE-IOT,Communication Skills,Dr. Vikas Sharma,None,0,0
+Tuesday,2,CSE-F,CN Lab,Dr. Anjali Tiwari,Dr. Mehul Tiwari,1,1
+Monday,6,CSE-C,Operating Systems,Dr. Sameer Kapoor,Dr. Sneha Sharma,1,1
+Tuesday,8,CSE-F,Project Lab,Dr. Mohit Joshi,Dr. Kunal Batra,1,1
+Thursday,4,CSE-AIML,Data Structures,Dr. Simran Rao,None,0,0
+Thursday,6,CSE-A,Operating Systems,Dr. Sneha Sharma,Dr. Sameer Kapoor,1,1
+Monday,6,CSE-F,Machine Learning,Dr. Amit Sinha,None,0,0
+Monday,7,CSE-E,AI,Dr. Ayesha Sinha,None,0,0
+Thursday,8,CSE-IOT,OS Lab,Dr. Tina Mehta,None,0,0
+Thursday,4,CSE-A,Digital Logic,Dr. Rohit Kapoor,Dr. Mehul Sinha,1,1
+Wednesday,7,CSE-AIML,Blockchain,Dr. Kritika Iyer,Dr. Mohit Mehta,1,1
+Wednesday,1,CSE-B,Software Engineering,Dr. Abhay Iyer,None,0,0
+Tuesday,3,CSE-F,AI,Dr. Ayesha Sinha,None,0,0
+Monday,5,CSE-A,Digital Logic,Dr. Ruchi Mehta,None,0,0
+Monday,3,CSE-IOT,CN Lab,Dr. Mehul Tiwari,Dr. Anjali Tiwari,1,1
+Monday,4,CSE-D,DBMS,Dr. Deepak Kapoor,Dr. Uday Iyer,1,1
+Thursday,8,CSE-E,Computer Graphics,Dr. Preeti Sinha,Dr. Mehul Verma,1,1
+Friday,8,CSE-F,Cloud Computing,Dr. Mohit Tiwari,Dr. Rohit Joshi,1,1
+Thursday,7,CSE-F,Blockchain,Dr. Kritika Iyer,None,0,0
+Wednesday,7,CSE-F,Communication Skills,Dr. Vikas Sharma,None,0,0
+Wednesday,4,CSE-A,Digital Logic,Dr. Rohit Kapoor,Dr. Mehul Sinha,1,1
+Wednesday,4,CSE-E,NLP,Dr. Rina Joshi,None,0,0
+Monday,8,CSE-CS,Software Engineering,Dr. Abhay Iyer,None,0,0
+Wednesday,6,CSE-DS,Computer Graphics,Dr. Mehul Verma,None,0,0
+Friday,6,CSE-DS,Communication Skills,Dr. Shruti Sinha,Dr. Anjali Kapoor,1,1
+Monday,5,CSE-DS,Operating Systems,Dr. Varun Kapoor,Dr. Sneha Sharma,1,1
+Tuesday,3,CSE-D,NLP,Dr. Rina Joshi,Dr. Tanya Iyer,1,1
+Thursday,4,CSE-E,Communication Skills,Dr. Shruti Sinha,None,0,0
+Thursday,7,CSE-CS,Computer Graphics,Dr. Mehul Verma,Dr. Divya Iyer,1,1
+Monday,5,CSE-CS,DBMS,Dr. Deepak Kapoor,None,0,0
+Friday,1,CSE-B,AR/VR,Dr. Mehul Joshi,Dr. Garima Sharma,1,1
+Friday,1,CSE-A,Cloud Computing,Dr. Rohit Joshi,Dr. Mohit Tiwari,1,1
+Thursday,3,CSE-DS,Web Development,Dr. Rohit Mehta,Dr. Isha Verma,1,1
+Wednesday,4,CSE-A,CN Lab,Dr. Mehul Tiwari,Dr. Anjali Tiwari,1,1
+Monday,4,CSE-AIML,AR/VR,Dr. Garima Sharma,Dr. Garima Verma,1,1
+Wednesday,7,CSE-IOT,Project Lab,Dr. Kunal Batra,Dr. Mohit Joshi,1,1
+Thursday,6,CSE-F,CN Lab,Dr. Anjali Tiwari,None,0,0
+Monday,2,CSE-F,Java Programming,Dr. Sameer Sinha,Dr. Rajat Verma,1,1
+Wednesday,4,CSE-C,Web Development,Dr. Isha Verma,None,0,0
+Tuesday,8,CSE-F,Software Engineering,Dr. Abhay Iyer,None,0,0
+Friday,3,CSE-F,Computer Graphics,Dr. Preeti Sinha,None,0,0
+Wednesday,4,CSE-IOT,Computer Networks,Dr. Divya Joshi,Dr. Mehul Mehta,1,1
+Tuesday,3,CSE-C,Communication Skills,Dr. Anjali Kapoor,None,0,0
+Tuesday,1,CSE-CS,Python Programming,Dr. Garima Rao,Dr. Yash Batra,1,1
+Thursday,3,CSE-D,AI,Dr. Isha Iyer,None,0,0
+Thursday,7,CSE-B,Java Programming,Dr. Sameer Sinha,None,0,0
+Wednesday,8,CSE-B,Project Lab,Dr. Mohit Joshi,Dr. Kunal Batra,1,1
+Friday,4,CSE-E,Cloud Computing,Dr. Rohit Joshi,None,0,0
+Monday,3,CSE-AIML,Web Development,Dr. Rohit Mehta,None,0,0
+Friday,6,CSE-F,Blockchain,Dr. Mohit Mehta,Dr. Kritika Iyer,1,1
+Tuesday,3,CSE-DS,Data Structures,Dr. Simran Rao,None,0,0
+Tuesday,2,CSE-DS,Cybersecurity,Dr. Priya Iyer,None,0,0
+Wednesday,5,CSE-DS,Python Programming,Dr. Rohit Batra,None,0,0
+Tuesday,2,CSE-DS,Cloud Computing,Dr. Mohit Tiwari,None,0,0
+Monday,6,CSE-DS,Digital Logic,Dr. Rohit Kapoor,None,0,0
+Tuesday,1,CSE-D,CN Lab,Dr. Mehul Tiwari,Dr. Anjali Tiwari,1,1
+Wednesday,2,CSE-AIML,CN Lab,Dr. Anjali Tiwari,Dr. Mehul Tiwari,1,1
+Thursday,4,CSE-CS,Machine Learning,Dr. Komal Batra,None,0,0
+Wednesday,7,CSE-F,Web Development,Dr. Isha Verma,Dr. Rohit Mehta,1,1
+Monday,4,CSE-AIML,Operating Systems,Dr. Sneha Sharma,None,0,0
+Thursday,8,CSE-IOT,Project Lab,Dr. Mohit Joshi,Dr. Kunal Batra,1,1
+Tuesday,8,CSE-D,Blockchain,Dr. Mohit Mehta,None,0,0
+Monday,1,CSE-AIML,Cybersecurity,Dr. Pooja Mehta,None,0,0
+Tuesday,2,CSE-CS,Compiler Design,Dr. Harsh Joshi,None,0,0
+Monday,3,CSE-D,Communication Skills,Dr. Shruti Sinha,None,0,0
+Friday,2,CSE-D,Computer Networks,Dr. Divya Joshi,Dr. Mehul Mehta,1,1
+Thursday,2,CSE-D,NLP,Dr. Rina Joshi,Dr. Tanya Iyer,1,1
+Wednesday,6,CSE-A,AR/VR,Dr. Garima Verma,Dr. Garima Sharma,1,1
+Tuesday,8,CSE-E,Web Development,Dr. Rohit Mehta,None,0,0
+Thursday,6,CSE-DS,Computer Graphics,Dr. Mehul Verma,None,0,0
+Thursday,1,CSE-F,AI,Dr. Isha Iyer,Dr. Ayesha Sinha,1,1
+Friday,8,CSE-IOT,AI,Dr. Ayesha Sinha,Dr. Isha Iyer,1,1
+Friday,3,CSE-F,OS Lab,Dr. Tina Mehta,None,0,0
+Tuesday,6,CSE-DS,NLP,Dr. Rina Joshi,Dr. Tanya Iyer,1,1
+Tuesday,5,CSE-DS,Blockchain,Dr. Mohit Mehta,None,0,0
+Monday,4,CSE-B,AR/VR,Dr. Garima Verma,None,0,0
+Friday,7,CSE-B,Machine Learning,Dr. Amit Sinha,Dr. Komal Batra,1,1
+Monday,6,CSE-E,NLP,Dr. Rina Joshi,Dr. Tanya Iyer,1,1
+Wednesday,4,CSE-CS,Ethics in AI,Dr. Ayesha Tiwari,None,0,0
+Monday,1,CSE-C,Project Lab,Dr. Mohit Joshi,Dr. Kunal Batra,1,1
+Tuesday,6,CSE-B,Operating Systems,Dr. Sneha Sharma,None,0,0
+Wednesday,7,CSE-F,Ethics in AI,Dr. Vikas Verma,Dr. Preeti Batra,1,1
+Wednesday,1,CSE-B,Java Programming,Dr. Sameer Sinha,Dr. Rajat Verma,1,1
+Tuesday,5,CSE-C,Digital Logic,Dr. Ruchi Mehta,Dr. Mehul Sinha,1,1
+Thursday,6,CSE-A,DBMS,Dr. Uday Iyer,Dr. Deepak Kapoor,1,1
+Wednesday,1,CSE-E,Compiler Design,Dr. Harsh Joshi,None,0,0
+Thursday,8,CSE-C,Machine Learning,Dr. Komal Batra,None,0,0
+Wednesday,7,CSE-IOT,Python Programming,Dr. Garima Rao,Dr. Yash Batra,1,1
+Friday,2,CSE-D,Cybersecurity,Dr. Pooja Mehta,None,0,0
+Thursday,1,CSE-E,Communication Skills,Dr. Vikas Sharma,Dr. Anjali Kapoor,1,1
+Tuesday,1,CSE-E,Communication Skills,Dr. Shruti Sinha,None,0,0
+Friday,7,CSE-B,Communication Skills,Dr. Shruti Sinha,Dr. Anjali Kapoor,1,1
+Friday,3,CSE-CS,Data Structures,Dr. Sameer Batra,None,0,0
+Monday,6,CSE-F,Compiler Design,Dr. Harsh Joshi,Dr. Sanjay Kapoor,1,1
+Friday,1,CSE-B,Computer Graphics,Dr. Divya Iyer,None,0,0
+Monday,7,CSE-IOT,Computer Networks,Dr. Divya Joshi,Dr. Mehul Mehta,1,1
+Wednesday,8,CSE-DS,CN Lab,Dr. Anjali Tiwari,Dr. Mehul Tiwari,1,1
+Tuesday,4,CSE-DS,Computer Graphics,Dr. Mehul Verma,None,0,0
+Friday,3,CSE-B,Communication Skills,Dr. Shruti Sinha,Dr. Anjali Kapoor,1,1
+Tuesday,6,CSE-DS,DBMS,Dr. Deepak Kapoor,Dr. Uday Iyer,1,1
+Monday,3,CSE-D,Data Structures,Dr. Simran Rao,None,0,0
+Wednesday,1,CSE-C,Data Structures,Dr. Sameer Batra,None,0,0
+Wednesday,6,CSE-DS,Ethics in AI,Dr. Ayesha Tiwari,Dr. Vikas Verma,1,1
+Friday,7,CSE-IOT,AR/VR,Dr. Garima Verma,Dr. Garima Sharma,1,1
+Tuesday,5,CSE-IOT,Java Programming,Dr. Rajat Verma,None,0,0
+Tuesday,8,CSE-C,NLP,Dr. Tanya Iyer,Dr. Rina Joshi,1,1
+Monday,3,CSE-AIML,Software Engineering,Dr. Abhay Kapoor,None,0,0
+Tuesday,6,CSE-B,Compiler Design,Dr. Harsh Joshi,Dr. Sanjay Kapoor,1,1
+Wednesday,3,CSE-CS,Web Development,Dr. Rohit Mehta,None,0,0
+Thursday,4,CSE-B,CN Lab,Dr. Anjali Tiwari,Dr. Mehul Tiwari,1,1
+Tuesday,7,CSE-E,Compiler Design,Dr. Sanjay Kapoor,None,0,0
+Wednesday,2,CSE-C,Communication Skills,Dr. Vikas Sharma,None,0,0
+Thursday,3,CSE-F,Machine Learning,Dr. Komal Batra,Dr. Amit Sinha,1,1
+Friday,4,CSE-AIML,OS Lab,Dr. Tina Mehta,Dr. Payal Kapoor,1,1
+Thursday,4,CSE-DS,Cloud Computing,Dr. Mohit Tiwari,Dr. Rohit Joshi,1,1
+Thursday,1,CSE-IOT,CN Lab,Dr. Anjali Tiwari,None,0,0
+Tuesday,5,CSE-AIML,Project Lab,Dr. Kunal Batra,None,0,0
+Monday,6,CSE-CS,CN Lab,Dr. Anjali Tiwari,Dr. Mehul Tiwari,1,1
+Thursday,7,CSE-C,Machine Learning,Dr. Amit Sinha,Dr. Komal Batra,1,1
+Tuesday,8,CSE-IOT,NLP,Dr. Tanya Iyer,None,0,0
+Thursday,7,CSE-D,Cloud Computing,Dr. Rohit Joshi,None,0,0
+Wednesday,6,CSE-AIML,Compiler Design,Dr. Sanjay Kapoor,None,0,0
+Wednesday,5,CSE-IOT,Compiler Design,Dr. Yash Iyer,Dr. Sanjay Kapoor,1,1
+Wednesday,8,CSE-E,Web Development,Dr. Rohit Mehta,None,0,0
+Wednesday,3,CSE-E,CN Lab,Dr. Mehul Tiwari,Dr. Anjali Tiwari,1,1
+Wednesday,2,CSE-B,Cloud Computing,Dr. Rohit Joshi,None,0,0
+Friday,4,CSE-A,Cloud Computing,Dr. Rohit Joshi,None,0,0
+Monday,5,CSE-DS,Communication Skills,Dr. Shruti Sinha,Dr. Anjali Kapoor,1,1
+Monday,2,CSE-DS,OOPs,Dr. Pallavi Sharma,None,0,0
+Friday,7,CSE-A,CN Lab,Dr. Mehul Tiwari,None,0,0
+Friday,4,CSE-C,Digital Logic,Dr. Mehul Sinha,None,0,0
+Tuesday,4,CSE-D,Software Engineering,Dr. Abhay Iyer,Dr. Abhay Kapoor,1,1
+Thursday,8,CSE-B,AI,Dr. Ayesha Sinha,None,0,0
+Friday,1,CSE-E,Machine Learning,Dr. Amit Sinha,Dr. Komal Batra,1,1
+Monday,5,CSE-A,Data Structures,Dr. Simran Rao,Dr. Jyoti Mehta,1,1
+Monday,4,CSE-B,DBMS Lab,Dr. Tanvi Verma,Dr. Rajat Batra,1,1
+Tuesday,5,CSE-CS,Software Engineering,Dr. Abhay Iyer,None,0,0
+Monday,3,CSE-B,AI,Dr. Ayesha Sinha,Dr. Isha Iyer,1,1
+Wednesday,3,CSE-DS,Software Engineering,Dr. Abhay Kapoor,None,0,0
+Thursday,3,CSE-IOT,Communication Skills,Dr. Vikas Sharma,Dr. Shruti Sinha,1,1
+Thursday,5,CSE-CS,Compiler Design,Dr. Harsh Joshi,Dr. Sanjay Kapoor,1,1
+Friday,7,CSE-E,CN Lab,Dr. Mehul Tiwari,Dr. Anjali Tiwari,1,1
+Monday,3,CSE-IOT,Compiler Design,Dr. Sanjay Kapoor,None,0,0
+Friday,1,CSE-F,Blockchain,Dr. Mohit Mehta,Dr. Kritika Iyer,1,1
+Thursday,2,CSE-E,Compiler Design,Dr. Sanjay Kapoor,None,0,0
+Monday,8,CSE-IOT,NLP,Dr. Rina Joshi,Dr. Tanya Iyer,1,1
+Thursday,1,CSE-DS,Java Programming,Dr. Sameer Sinha,Dr. Rajat Verma,1,1
+Friday,3,CSE-F,Machine Learning,Dr. Amit Sinha,Dr. Komal Batra,1,1
+Thursday,6,CSE-CS,Software Engineering,Dr. Abhay Kapoor,None,0,0
+Tuesday,4,CSE-IOT,Java Programming,Dr. Rajat Verma,None,0,0
+Monday,6,CSE-IOT,CN Lab,Dr. Mehul Tiwari,Dr. Anjali Tiwari,1,1
+Monday,7,CSE-IOT,NLP,Dr. Tanya Iyer,None,0,0
+Tuesday,8,CSE-D,Communication Skills,Dr. Anjali Kapoor,None,0,0
+Monday,3,CSE-DS,CN Lab,Dr. Anjali Tiwari,Dr. Mehul Tiwari,1,1
+Wednesday,1,CSE-CS,Data Structures,Dr. Jyoti Mehta,None,0,0
+Thursday,8,CSE-AIML,OOPs,Dr. Alok Iyer,None,0,0
+Friday,8,CSE-IOT,DBMS,Dr. Deepak Kapoor,Dr. Uday Iyer,1,1
+Friday,8,CSE-AIML,Operating Systems,Dr. Sneha Sharma,Dr. Sameer Kapoor,1,1
+Friday,5,CSE-D,Cloud Computing,Dr. Rohit Joshi,Dr. Mohit Tiwari,1,1
+Monday,4,CSE-DS,Cybersecurity,Dr. Rina Sharma,Dr. Pooja Mehta,1,1
+Tuesday,5,CSE-F,Data Structures,Dr. Sameer Batra,None,0,0
+Friday,1,CSE-F,AR/VR,Dr. Garima Verma,None,0,0
+Monday,5,CSE-F,Python Programming,Dr. Garima Rao,Dr. Yash Batra,1,1
+Monday,8,CSE-B,Ethics in AI,Dr. Vikas Verma,None,0,0
+Wednesday,4,CSE-CS,DBMS Lab,Dr. Rajat Batra,Dr. Tanvi Verma,1,1
+Tuesday,1,CSE-DS,Web Development,Dr. Rohit Mehta,None,0,0
+Wednesday,7,CSE-CS,Communication Skills,Dr. Anjali Kapoor,None,0,0
+Monday,7,CSE-A,Java Programming,Dr. Rajat Verma,Dr. Sameer Sinha,1,1
+Wednesday,4,CSE-IOT,Computer Networks,Dr. Mehul Mehta,Dr. Divya Joshi,1,1
+Thursday,6,CSE-E,Blockchain,Dr. Kritika Iyer,None,0,0
+Tuesday,6,CSE-B,Digital Logic,Dr. Ruchi Mehta,None,0,0
+Friday,8,CSE-A,Computer Graphics,Dr. Mehul Verma,None,0,0
+Tuesday,5,CSE-IOT,Machine Learning,Dr. Komal Batra,Dr. Amit Sinha,1,1
+Tuesday,5,CSE-E,Cybersecurity,Dr. Pooja Mehta,None,0,0
+Wednesday,3,CSE-C,OS Lab,Dr. Payal Kapoor,Dr. Tina Mehta,1,1
+Wednesday,4,CSE-DS,Computer Networks,Dr. Divya Joshi,Dr. Mehul Mehta,1,1
+Tuesday,7,CSE-CS,Ethics in AI,Dr. Ayesha Tiwari,None,0,0
+Wednesday,6,CSE-IOT,Computer Networks,Dr. Mehul Mehta,None,0,0
+Wednesday,4,CSE-B,DBMS,Dr. Deepak Kapoor,None,0,0
+Tuesday,6,CSE-IOT,Java Programming,Dr. Sameer Sinha,None,0,0
+Wednesday,2,CSE-CS,DBMS,Dr. Uday Iyer,None,0,0
+Monday,2,CSE-IOT,OS Lab,Dr. Payal Kapoor,None,0,0
+Tuesday,2,CSE-CS,AI,Dr. Ayesha Sinha,Dr. Isha Iyer,1,1
+Thursday,5,CSE-E,CN Lab,Dr. Mehul Tiwari,Dr. Anjali Tiwari,1,1
+Monday,5,CSE-C,Data Structures,Dr. Sameer Batra,None,0,0
+Monday,1,CSE-E,Communication Skills,Dr. Shruti Sinha,Dr. Vikas Sharma,1,1
+Wednesday,8,CSE-C,Web Development,Dr. Isha Verma,None,0,0
+Wednesday,6,CSE-B,Communication Skills,Dr. Anjali Kapoor,Dr. Vikas Sharma,1,1
+Tuesday,2,CSE-F,AR/VR,Dr. Mehul Joshi,None,0,0
+Wednesday,7,CSE-B,Compiler Design,Dr. Sanjay Kapoor,Dr. Harsh Joshi,1,1
+Monday,5,CSE-A,Compiler Design,Dr. Yash Iyer,None,0,0
+Tuesday,4,CSE-A,Cloud Computing,Dr. Rohit Joshi,None,0,0
+Friday,7,CSE-B,Ethics in AI,Dr. Ayesha Tiwari,None,0,0
+Thursday,2,CSE-CS,Communication Skills,Dr. Anjali Kapoor,None,0,0
+Thursday,1,CSE-IOT,Machine Learning,Dr. Amit Sinha,Dr. Komal Batra,1,1
+Tuesday,7,CSE-IOT,DBMS,Dr. Deepak Kapoor,None,0,0
+Thursday,4,CSE-C,Blockchain,Dr. Kritika Iyer,None,0,0
+Monday,7,CSE-DS,Data Structures,Dr. Simran Rao,Dr. Sameer Batra,1,1
+Wednesday,1,CSE-A,Machine Learning,Dr. Amit Sinha,Dr. Komal Batra,1,1
+Wednesday,7,CSE-C,Ethics in AI,Dr. Vikas Verma,None,0,0
+Tuesday,3,CSE-DS,AR/VR,Dr. Garima Verma,None,0,0
+Thursday,5,CSE-D,AI,Dr. Isha Iyer,None,0,0
+Thursday,8,CSE-B,Computer Networks,Dr. Mehul Mehta,None,0,0
+Friday,4,CSE-D,Web Development,Dr. Isha Verma,None,0,0
+Tuesday,6,CSE-C,Blockchain,Dr. Mohit Mehta,Dr. Kritika Iyer,1,1
+Thursday,7,CSE-DS,Machine Learning,Dr. Komal Batra,Dr. Amit Sinha,1,1
+Friday,3,CSE-F,Digital Logic,Dr. Mehul Sinha,None,0,0
+Friday,7,CSE-F,Web Development,Dr. Isha Verma,None,0,0
+Monday,8,CSE-AIML,Computer Networks,Dr. Divya Joshi,None,0,0
+Monday,4,CSE-CS,Computer Graphics,Dr. Divya Iyer,Dr. Mehul Verma,1,1
+Monday,1,CSE-A,Cloud Computing,Dr. Mohit Tiwari,None,0,0
+Wednesday,6,CSE-E,OS Lab,Dr. Payal Kapoor,Dr. Tina Mehta,1,1
+Wednesday,7,CSE-B,Python Programming,Dr. Garima Rao,Dr. Yash Batra,1,1
+Monday,7,CSE-DS,Machine Learning,Dr. Komal Batra,Dr. Amit Sinha,1,1
+Tuesday,8,CSE-AIML,AI,Dr. Isha Iyer,None,0,0
+Thursday,7,CSE-E,Machine Learning,Dr. Komal Batra,None,0,0
+Wednesday,7,CSE-A,NLP,Dr. Rina Joshi,Dr. Tanya Iyer,1,1
+Tuesday,3,CSE-AIML,Cybersecurity,Dr. Pooja Mehta,None,0,0
+Wednesday,3,CSE-CS,Ethics in AI,Dr. Vikas Verma,Dr. Ayesha Tiwari,1,1
+Tuesday,1,CSE-E,AR/VR,Dr. Mehul Joshi,Dr. Garima Sharma,1,1
+Tuesday,6,CSE-C,Operating Systems,Dr. Sameer Kapoor,None,0,0
+Monday,3,CSE-F,Computer Networks,Dr. Divya Joshi,None,0,0
+Wednesday,3,CSE-DS,Compiler Design,Dr. Yash Iyer,Dr. Sanjay Kapoor,1,1
+Wednesday,3,CSE-AIML,Operating Systems,Dr. Sneha Sharma,None,0,0
+Friday,1,CSE-CS,Blockchain,Dr. Mohit Mehta,Dr. Kritika Iyer,1,1
+Thursday,8,CSE-E,AR/VR,Dr. Garima Sharma,None,0,0
+Thursday,4,CSE-F,OS Lab,Dr. Payal Kapoor,Dr. Tina Mehta,1,1
+Thursday,7,CSE-A,Digital Logic,Dr. Ruchi Mehta,None,0,0
+Wednesday,5,CSE-E,Operating Systems,Dr. Varun Kapoor,None,0,0
+Wednesday,5,CSE-B,Computer Networks,Dr. Mehul Mehta,Dr. Divya Joshi,1,1
+Friday,5,CSE-C,OOPs,Dr. Pallavi Sharma,None,0,0
+Friday,7,CSE-D,Compiler Design,Dr. Yash Iyer,Dr. Harsh Joshi,1,1
+Wednesday,6,CSE-B,AR/VR,Dr. Garima Verma,None,0,0
+Friday,8,CSE-CS,Blockchain,Dr. Mohit Mehta,Dr. Kritika Iyer,1,1
+Thursday,7,CSE-C,DBMS,Dr. Deepak Kapoor,Dr. Uday Iyer,1,1
+Friday,2,CSE-D,DBMS,Dr. Uday Iyer,None,0,0
+Monday,8,CSE-AIML,Compiler Design,Dr. Sanjay Kapoor,Dr. Harsh Joshi,1,1
+Friday,8,CSE-B,Machine Learning,Dr. Amit Sinha,None,0,0
+Monday,6,CSE-AIML,OS Lab,Dr. Tina Mehta,Dr. Payal Kapoor,1,1
+Monday,3,CSE-C,Software Engineering,Dr. Abhay Kapoor,None,0,0
+Friday,8,CSE-DS,AR/VR,Dr. Garima Verma,None,0,0
+Wednesday,4,CSE-E,Software Engineering,Dr. Abhay Iyer,None,0,0
+Wednesday,8,CSE-IOT,Software Engineering,Dr. Abhay Kapoor,Dr. Abhay Iyer,1,1
+Friday,1,CSE-CS,Data Structures,Dr. Simran Rao,None,0,0
+Tuesday,3,CSE-IOT,Web Development,Dr. Rohit Mehta,Dr. Isha Verma,1,1
+Friday,6,CSE-DS,Ethics in AI,Dr. Ayesha Tiwari,Dr. Vikas Verma,1,1
+Wednesday,1,CSE-DS,CN Lab,Dr. Mehul Tiwari,None,0,0
+Friday,7,CSE-DS,Machine Learning,Dr. Amit Sinha,None,0,0
+Friday,4,CSE-AIML,Cybersecurity,Dr. Priya Iyer,Dr. Pooja Mehta,1,1
+Monday,7,CSE-E,Web Development,Dr. Isha Verma,None,0,0
+Monday,6,CSE-B,Blockchain,Dr. Mohit Mehta,Dr. Kritika Iyer,1,1
+Wednesday,1,CSE-C,Computer Networks,Dr. Mehul Mehta,None,0,0
+Wednesday,1,CSE-A,NLP,Dr. Tanya Iyer,Dr. Rina Joshi,1,1
+Tuesday,3,CSE-IOT,Computer Graphics,Dr. Mehul Verma,None,0,0
+Wednesday,8,CSE-DS,Project Lab,Dr. Mohit Joshi,None,0,0
+Wednesday,1,CSE-C,Blockchain,Dr. Kritika Iyer,Dr. Mohit Mehta,1,1
+Friday,3,CSE-B,Digital Logic,Dr. Mehul Sinha,None,0,0
+Thursday,2,CSE-D,AI,Dr. Isha Iyer,None,0,0
+Friday,5,CSE-E,Communication Skills,Dr. Vikas Sharma,None,0,0
+Friday,3,CSE-B,AI,Dr. Ayesha Sinha,Dr. Isha Iyer,1,1
+Thursday,1,CSE-DS,NLP,Dr. Rina Joshi,Dr. Tanya Iyer,1,1
+Friday,8,CSE-AIML,Operating Systems,Dr. Sameer Kapoor,Dr. Sneha Sharma,1,1
+Friday,4,CSE-D,Software Engineering,Dr. Abhay Kapoor,None,0,0
+Monday,1,CSE-C,Computer Graphics,Dr. Divya Iyer,None,0,0
+Tuesday,6,CSE-E,OS Lab,Dr. Payal Kapoor,Dr. Tina Mehta,1,1
+Thursday,1,CSE-DS,Data Structures,Dr. Simran Rao,None,0,0
+Thursday,3,CSE-F,Java Programming,Dr. Rajat Verma,Dr. Sameer Sinha,1,1
+Tuesday,7,CSE-CS,Operating Systems,Dr. Sneha Sharma,None,0,0
+Friday,7,CSE-C,DBMS Lab,Dr. Rajat Batra,None,0,0
+Thursday,3,CSE-DS,AR/VR,Dr. Mehul Joshi,None,0,0
+Monday,3,CSE-IOT,OS Lab,Dr. Payal Kapoor,None,0,0
+Tuesday,2,CSE-C,CN Lab,Dr. Anjali Tiwari,None,0,0
+Wednesday,5,CSE-B,OOPs,Dr. Pallavi Sharma,Dr. Alok Iyer,1,1
+Friday,1,CSE-IOT,Compiler Design,Dr. Yash Iyer,None,0,0
+Friday,6,CSE-IOT,AR/VR,Dr. Garima Sharma,Dr. Garima Verma,1,1
+Friday,1,CSE-A,AR/VR,Dr. Mehul Joshi,None,0,0
+Wednesday,1,CSE-A,Cybersecurity,Dr. Priya Iyer,None,0,0
+Tuesday,2,CSE-E,Machine Learning,Dr. Komal Batra,None,0,0
+Thursday,1,CSE-AIML,AI,Dr. Ayesha Sinha,None,0,0
+Wednesday,2,CSE-C,Web Development,Dr. Rohit Mehta,Dr. Isha Verma,1,1
+Wednesday,6,CSE-C,Machine Learning,Dr. Komal Batra,Dr. Amit Sinha,1,1
+Wednesday,8,CSE-F,Cybersecurity,Dr. Priya Iyer,Dr. Rina Sharma,1,1
+Friday,7,CSE-F,Operating Systems,Dr. Sameer Kapoor,Dr. Sneha Sharma,1,1
+Tuesday,6,CSE-D,CN Lab,Dr. Anjali Tiwari,Dr. Mehul Tiwari,1,1
+Wednesday,5,CSE-D,Web Development,Dr. Isha Verma,None,0,0
+Tuesday,4,CSE-C,AI,Dr. Ayesha Sinha,Dr. Isha Iyer,1,1
+Friday,8,CSE-AIML,DBMS,Dr. Uday Iyer,Dr. Deepak Kapoor,1,1
+Wednesday,1,CSE-A,Web Development,Dr. Rohit Mehta,Dr. Isha Verma,1,1
+Tuesday,8,CSE-IOT,Data Structures,Dr. Jyoti Mehta,None,0,0
+Friday,5,CSE-F,Data Structures,Dr. Sameer Batra,None,0,0
+Thursday,3,CSE-IOT,DBMS Lab,Dr. Rajat Batra,None,0,0
+Wednesday,6,CSE-IOT,Compiler Design,Dr. Sanjay Kapoor,None,0,0
+Monday,3,CSE-DS,Compiler Design,Dr. Harsh Joshi,Dr. Yash Iyer,1,1
+Wednesday,3,CSE-DS,Compiler Design,Dr. Harsh Joshi,Dr. Yash Iyer,1,1
+Monday,6,CSE-CS,Compiler Design,Dr. Harsh Joshi,Dr. Yash Iyer,1,1
+Thursday,4,CSE-D,Ethics in AI,Dr. Ayesha Tiwari,Dr. Preeti Batra,1,1
+Friday,4,CSE-E,OS Lab,Dr. Payal Kapoor,Dr. Tina Mehta,1,1
+Tuesday,4,CSE-D,Cloud Computing,Dr. Mohit Tiwari,None,0,0
+Tuesday,1,CSE-A,Java Programming,Dr. Rajat Verma,Dr. Sameer Sinha,1,1
+Tuesday,5,CSE-E,Cybersecurity,Dr. Rina Sharma,None,0,0
+Friday,3,CSE-E,OOPs,Dr. Pallavi Sharma,Dr. Alok Iyer,1,1
+Wednesday,4,CSE-C,Cloud Computing,Dr. Mohit Tiwari,Dr. Rohit Joshi,1,1
+Friday,4,CSE-E,AR/VR,Dr. Garima Verma,Dr. Garima Sharma,1,1
+Tuesday,6,CSE-F,Java Programming,Dr. Rajat Verma,None,0,0
+Tuesday,5,CSE-A,Computer Graphics,Dr. Preeti Sinha,Dr. Mehul Verma,1,1
+Friday,7,CSE-C,Computer Graphics,Dr. Preeti Sinha,None,0,0
+Wednesday,2,CSE-IOT,Digital Logic,Dr. Ruchi Mehta,Dr. Rohit Kapoor,1,1
+Monday,5,CSE-B,Cloud Computing,Dr. Rohit Joshi,None,0,0
+Monday,2,CSE-DS,Python Programming,Dr. Yash Batra,Dr. Garima Rao,1,1
+Wednesday,1,CSE-DS,Cybersecurity,Dr. Rina Sharma,Dr. Priya Iyer,1,1
+Wednesday,5,CSE-F,AI,Dr. Ayesha Sinha,None,0,0
+Friday,7,CSE-IOT,Operating Systems,Dr. Sameer Kapoor,None,0,0
+Friday,4,CSE-CS,Data Structures,Dr. Jyoti Mehta,None,0,0
+Thursday,2,CSE-C,AI,Dr. Ayesha Sinha,Dr. Isha Iyer,1,1
+Friday,3,CSE-C,Web Development,Dr. Rohit Mehta,Dr. Isha Verma,1,1
+Wednesday,3,CSE-AIML,Cloud Computing,Dr. Mohit Tiwari,Dr. Rohit Joshi,1,1
+Tuesday,8,CSE-E,OOPs,Dr. Pallavi Sharma,None,0,0
+Tuesday,6,CSE-B,AR/VR,Dr. Mehul Joshi,None,0,0
+Tuesday,1,CSE-IOT,Cybersecurity,Dr. Priya Iyer,None,0,0
+Wednesday,2,CSE-C,NLP,Dr. Rina Joshi,Dr. Tanya Iyer,1,1
+Monday,2,CSE-B,OS Lab,Dr. Tina Mehta,None,0,0
+Thursday,3,CSE-E,DBMS Lab,Dr. Tanvi Verma,Dr. Rajat Batra,1,1
+Friday,3,CSE-D,AI,Dr. Ayesha Sinha,Dr. Isha Iyer,1,1
+Tuesday,7,CSE-AIML,Project Lab,Dr. Kunal Batra,None,0,0
+Friday,6,CSE-IOT,Web Development,Dr. Isha Verma,Dr. Rohit Mehta,1,1
+Tuesday,2,CSE-DS,NLP,Dr. Rina Joshi,Dr. Tanya Iyer,1,1
+Thursday,1,CSE-CS,Ethics in AI,Dr. Ayesha Tiwari,Dr. Vikas Verma,1,1
+Monday,6,CSE-B,Digital Logic,Dr. Rohit Kapoor,Dr. Mehul Sinha,1,1
+Wednesday,6,CSE-CS,AI,Dr. Ayesha Sinha,None,0,0
+Monday,2,CSE-DS,AI,Dr. Isha Iyer,None,0,0
+Friday,3,CSE-IOT,NLP,Dr. Rina Joshi,None,0,0
+Thursday,6,CSE-D,Machine Learning,Dr. Amit Sinha,Dr. Komal Batra,1,1
+Friday,6,CSE-DS,Ethics in AI,Dr. Preeti Batra,None,0,0
+Wednesday,2,CSE-D,Communication Skills,Dr. Shruti Sinha,Dr. Anjali Kapoor,1,1
+Thursday,3,CSE-F,Computer Graphics,Dr. Preeti Sinha,None,0,0
+Monday,7,CSE-DS,Software Engineering,Dr. Abhay Kapoor,Dr. Abhay Iyer,1,1
+Thursday,4,CSE-A,Machine Learning,Dr. Komal Batra,Dr. Amit Sinha,1,1
+Tuesday,4,CSE-B,Web Development,Dr. Isha Verma,None,0,0
+Friday,4,CSE-E,Operating Systems,Dr. Sameer Kapoor,Dr. Sneha Sharma,1,1
+Wednesday,2,CSE-C,Operating Systems,Dr. Sneha Sharma,None,0,0
+Friday,8,CSE-CS,Cloud Computing,Dr. Rohit Joshi,None,0,0
+Tuesday,7,CSE-E,Digital Logic,Dr. Mehul Sinha,None,0,0
+Tuesday,4,CSE-AIML,DBMS,Dr. Deepak Kapoor,None,0,0
+Monday,8,CSE-IOT,Software Engineering,Dr. Abhay Kapoor,None,0,0
+Thursday,1,CSE-E,DBMS Lab,Dr. Rajat Batra,Dr. Tanvi Verma,1,1
+Friday,1,CSE-E,Computer Graphics,Dr. Preeti Sinha,Dr. Mehul Verma,1,1
+Wednesday,7,CSE-A,OOPs,Dr. Alok Iyer,None,0,0
+Friday,8,CSE-E,Communication Skills,Dr. Shruti Sinha,Dr. Anjali Kapoor,1,1
+Tuesday,1,CSE-B,Computer Networks,Dr. Divya Joshi,None,0,0
+Monday,3,CSE-B,Data Structures,Dr. Simran Rao,Dr. Sameer Batra,1,1
+Thursday,2,CSE-B,Cloud Computing,Dr. Rohit Joshi,Dr. Mohit Tiwari,1,1
+Thursday,5,CSE-B,Web Development,Dr. Rohit Mehta,Dr. Isha Verma,1,1
+Tuesday,2,CSE-IOT,Communication Skills,Dr. Vikas Sharma,None,0,0
+Monday,2,CSE-F,AR/VR,Dr. Mehul Joshi,Dr. Garima Sharma,1,1
+Wednesday,7,CSE-F,Blockchain,Dr. Mohit Mehta,Dr. Kritika Iyer,1,1
+Tuesday,8,CSE-AIML,Communication Skills,Dr. Vikas Sharma,Dr. Anjali Kapoor,1,1
+Friday,6,CSE-A,Computer Graphics,Dr. Divya Iyer,Dr. Preeti Sinha,1,1
+Friday,6,CSE-DS,Ethics in AI,Dr. Ayesha Tiwari,None,0,0
+Thursday,2,CSE-A,Cloud Computing,Dr. Rohit Joshi,Dr. Mohit Tiwari,1,1
+Friday,5,CSE-DS,Blockchain,Dr. Kritika Iyer,Dr. Mohit Mehta,1,1
+Thursday,6,CSE-IOT,AR/VR,Dr. Garima Sharma,Dr. Garima Verma,1,1
+Tuesday,7,CSE-D,AI,Dr. Ayesha Sinha,Dr. Isha Iyer,1,1
+Wednesday,1,CSE-C,DBMS,Dr. Deepak Kapoor,Dr. Uday Iyer,1,1
+Thursday,1,CSE-DS,AI,Dr. Ayesha Sinha,None,0,0
+Wednesday,4,CSE-D,NLP,Dr. Tanya Iyer,None,0,0
+Thursday,5,CSE-DS,Data Structures,Dr. Simran Rao,Dr. Sameer Batra,1,1
+Thursday,4,CSE-C,Compiler Design,Dr. Sanjay Kapoor,Dr. Harsh Joshi,1,1
+Thursday,1,CSE-CS,Web Development,Dr. Isha Verma,None,0,0
+Friday,2,CSE-B,Machine Learning,Dr. Amit Sinha,None,0,0
+Tuesday,3,CSE-F,Digital Logic,Dr. Ruchi Mehta,Dr. Mehul Sinha,1,1
+Monday,4,CSE-B,Ethics in AI,Dr. Preeti Batra,None,0,0
